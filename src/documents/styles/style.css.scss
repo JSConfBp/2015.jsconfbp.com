@@ -309,3 +309,17 @@ ul {
     color: $blue;
   }
 }
+
+.decoration {
+  width: 100%;
+  overflow: hidden;
+  height: 300px;
+  position: relative;
+
+  img {
+    position: absolute;
+    left: 0;
+    top: -60%;
+    width: 100%;
+  }
+}
