@@ -1,7 +1,7 @@
 {
   "min": {
     "js": {
-      "src": ["vendor/jquery.js", "vendor/log.js", "vendor/modernizr.js", "scripts/script.js"],
+      "src": ["scripts/script.js"],
       "dest": "scripts/all.min.js"
     }
   },
