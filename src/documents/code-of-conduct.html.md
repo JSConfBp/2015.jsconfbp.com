@@ -11,10 +11,10 @@ All attendees, speakers, sponsors and volunteers at JSConf Budapest are required
 
 ## Need Help? Contact Szabolcs
 
-Szabolcs Szabolcsi-Tóth
-Twitter: [@_Nec](http://twitter.com/_Nec)
-Email: [nec@jsconfbp.com](mailto:nec@jsconfbp.com)
-Phone(hu): +36703891288
+ - Szabolcs Szabolcsi-Tóth
+ - Twitter: [@_Nec](http://twitter.com/_Nec)
+ - Email: [nec@jsconfbp.com](mailto:nec@jsconfbp.com)
+ - Phone(hu): +36703891288
 
 ## The Quick Version
 
