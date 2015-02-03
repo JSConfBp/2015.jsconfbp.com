@@ -35,7 +35,7 @@
 						<a href="<%- @getPath('speakers.html','/') %>">Speakers</a>
 					</li>
 					<li>
-						<a href="<%- @getPath('call-for-presentations.html','/') %>">Speak!</a>
+						<a href="<%- @getPath('call-for-presentations.html','/') %>">Call For Presentations</a>
 					</li>
 					<li>
 						<a href="<%- @getPath('budapest-guide.html','/') %>">Budapest Guide</a>
