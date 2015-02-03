@@ -3,7 +3,7 @@
     <span class="pipe">|</span>
     <a href="<%- @getPath('code-of-conduct.html','/') %>">Code of Conduct</a>
     <span class="pipe">|</span>
-    <a href="<%- @getPath('organizers.html','/') %>">The Organizers</a>
+    <a href="<%- @getPath('about.html','/') %>">About</a>
 </div>
 
 

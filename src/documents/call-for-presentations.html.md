@@ -85,7 +85,8 @@ Here’s roughly how we pick our talks:
 * Two rounds of voting:
  1. The first round rates each talk on a scale from 1 to 10.
  2. The top-N (~50) submissions are rated again on a 3-point scale (“meh”, “yay”, “MUST HAVE”).
-* De-anonymize so we can (finally) bias against speaker details (based on our budget, we might opt for a local or at least closer-by (read: cheaper to transport) speaker).
+* De-anonymize so we can (finally) bias against speaker details (based on our budget, we might opt for a local or at least 
+closer-by (read: cheaper to transport) speaker).
 
 (and a number of details that we make up as we go along)
 
@@ -98,23 +99,33 @@ No excuses.
 
 All talks are **in English**.
 
-**Talks are usually 30 minutes long** (for longer talks we’d get in touch with you directly). Afterwards, there is a rough 10 minutes of Q&A. We will be on a tight schedule and enforce the end of a talk rigorously. We suggest timing your presentation in advance.
+**Talks are usually 30 minutes long** (for longer talks we’d get in touch with you directly). Afterwards, there is a 
+rough 10 minutes of Q&A. We will be on a tight schedule and enforce the end of a talk rigorously. 
+We suggest timing your presentation in advance.
 
-**Make sure you care**, and make sure we see you care. Typos, sloppy formatting and all-lowercase submissions make our reading of your proposal tedious. These things will definitely count against your proposal.
+**Make sure you care**, and make sure we see you care. Typos, sloppy formatting and all-lowercase submissions make our 
+reading of your proposal tedious. These things will definitely count against your proposal.
 
-**Don’t overdo it** either. If you need more than two paragraphs to get to the point of your topic, we need to ask you to slim things down. With the amount of submissions we get, the quicker you can to make a good impression, the better.
+**Don’t overdo it** either. If you need more than two paragraphs to get to the point of your topic, we need to ask you 
+to slim things down. With the amount of submissions we get, the quicker you can to make a good impression, the better.
 
-**Original Topics**. One of the things we like to do with JSConf Budapest is to push the community forward. We can’t do this if the same people keep talking about the same things all the time. Thus, we favour original content. If you want to discuss a topic that you have talked about elsewhere, try to add a twist, or new research, or development, something unique. Of course, if your talk is plain awesome as-is, go for that :)
+**Original Topics**. One of the things we like to do with JSConf Budapest is to push the community forward. We can’t do 
+this if the same people keep talking about the same things all the time. Thus, we favour original content. If you want 
+to discuss a topic that you have talked about elsewhere, try to add a twist, or new research, or development, something 
+unique. Of course, if your talk is plain awesome as-is, go for that :)
 
 <a id="misc" ></a>
 
 ## Misc 
 
-All talks will be recorded and published on the internet for free, along with a recording of the slide deck, live-demo or other on-presenter-screen activity.
+All talks will be recorded and published on the internet for free, along with a recording of the slide deck, live-demo or 
+other on-presenter-screen activity.
 
-We do this for the benefit of the larger JS community and those who can’t make it to the conference. We hope you want to help out, but if you are in any way uncomfortable in any way, let us know and we will work things out.
+We do this for the benefit of the larger JS community and those who can’t make it to the conference. We hope you want to 
+help out, but if you are in any way uncomfortable in any way, let us know and we will work things out.
 
-Finally, since you retain full ownership of your slides and recording, we’d like to ask you to make your materials and recording available under a creative commons (we default to no commercial reuse) or other open source license.
+Finally, since you retain full ownership of your slides and recording, we’d like to ask you to make your materials and 
+recording available under a creative commons (we default to no commercial reuse) or other open source license.
 
 <a id="submit" ></a>
 
