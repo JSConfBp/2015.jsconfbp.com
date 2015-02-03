@@ -26,8 +26,6 @@ We like to see anything that squarely fits into the spectrum of:
 * Fundamentals, in a modern light.
 * And finally: Anything you want!
 
-<a id="help" ></a>
-
 ## We Can Help
 
 Not everybody is a natural talent on stage. Not everybody can produce kick-ass slide-decks. Not everybody is a live-demo-god. 

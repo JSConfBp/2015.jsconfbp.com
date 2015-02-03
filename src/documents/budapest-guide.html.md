@@ -3,9 +3,7 @@ layout: 'default'
 title: 'Budapest Guide'
 ---
 
-<h1>
-	Budapest Guide
-</h1>
+#Budapest Guide
 
 ## Discover Budapest
 
@@ -43,10 +41,6 @@ Several hotels can be found near the venue:
 
 
 ## Airport shuttle
-
-<div class="decoration">
-	<img src="/images/budapest-airport.jpg" />
-</div>
 
 The Liszt Ferenc International Airport is at the outskirts of Budapest. 
 There is a [public transport line 200E](http://www.bkk.hu/en/2012/07/take-public-transport-from-liszt-ferenc-airport-to-the-centre-of-budapest/) 

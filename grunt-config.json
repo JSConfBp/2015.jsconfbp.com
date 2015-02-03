@@ -7,7 +7,7 @@
   },
   "concat": {
     "css": {
-      "src": ["vendor/normalize.css","styles/style.css"],
+      "src": ["styles/style.css"],
       "dest": "styles/all.css"
     }
   },
