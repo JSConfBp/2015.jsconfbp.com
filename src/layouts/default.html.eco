@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head lang="en">
+
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="wwidth=device-width, initial-scale=1" />
+
+		<title><%= @getPreparedTitle() %></title>
+		<meta name="description" content="<%= @getPreparedDescription() %>" />
+		<meta name="keywords" content="<%= @getPreparedKeywords() %>" />
+
+		<%- @getBlock('meta').toHTML() %>
+
+		<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+		<%- @getBlock('styles').add(@getGruntedStyles()).toHTML() %>
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+	</head>
+	<body>
+		<div id="header">
+
+			<%- @partial('logo') %>
+			<%- @partial('title') %>
+
+			<div id="navigation">
+				<ul>
+					<li>
+						<a href="<%- @getPath('index.html','/') %>">News</a>
+					</li>
+					<li>
+						<a href="<%- @getPath('speakers.html','/') %>">Speakers</a>
+					</li>
+					<li>
+						<a href="<%- @getPath('call-for-presentations.html','/') %>">Speak!</a>
+					</li>
+					<li>
+						<a href="<%- @getPath('budapest-guide.html','/') %>">Budapest Guide</a>
+					</li>
+					<li>
+						<a href="<%- @getPath('sponsors.html','/') %>">Sponsors</a>
+					</li>
+					<li>
+						<a href="<%- @getPath('about.html','/') %>">About</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="bg-layer"></div>
+		</div>
+
+		<div id="content">
+			<%- @content %>
+		</div>
+
+		<%- @partial('footer') %>
+
+		<!-- DocPad Scripts + Our Own -->
+		<%- @getBlock('scripts').add(@getGruntedScripts()).toHTML() %>
+	</body>
+</html>

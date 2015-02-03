@@ -1,0 +1,20 @@
+{
+  "min": {
+    "js": {
+      "src": ["vendor/jquery.js", "vendor/log.js", "vendor/modernizr.js", "scripts/script.js"],
+      "dest": "scripts/all.min.js"
+    }
+  },
+  "concat": {
+    "css": {
+      "src": ["vendor/normalize.css","styles/style.css"],
+      "dest": "styles/all.css"
+    }
+  },
+  "cssmin": {
+    "all": {
+      "src": ["styles/all.css"],
+      "dest": "styles/all.min.css"
+    }
+  }
+}
