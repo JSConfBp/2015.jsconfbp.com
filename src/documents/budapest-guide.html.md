@@ -42,6 +42,11 @@ Several hotels can be found near the venue:
 
 ## Airport shuttle
 
+<div class="decoration">
+	<img src="/images/budapest_airport.jpg" alt="Photo by Hatem Riahi on Flickr" style="top: auto; bottom: -50%;" />
+	<span class="credit"><a href="https://www.flickr.com/photos/hatm/5566002012">Photo by Hatem Riahi on Flickr</a> <a href="https://creativecommons.org/licenses/by/2.0/">Some rights reserved</a></span>
+</div>
+
 The Liszt Ferenc International Airport is at the outskirts of Budapest. 
 There is a [public transport line 200E](http://www.bkk.hu/en/2012/07/take-public-transport-from-liszt-ferenc-airport-to-the-centre-of-budapest/) 
 to connect with the Metro line 3 at Kőbánya-Kispest, from where you can reach any part of the city by public transport.
@@ -55,8 +60,8 @@ they will call you a car, and give a good estimate on the fare, which is usually
 ## Transportation
 
 <div class="decoration">
-	<img src="/images/budapest_traffic.jpg" alt="Budapest night by Aapo Haapanen on Flickr" />
-	<span class="credit"><a href="https://www.flickr.com/photos/decade_null/1858868091">Budapest night by Aapo Haapanen on Flickr</a> <a href="https://creativecommons.org/licenses/by/2.0/">Some rights reserved</a></span>
+	<img src="/images/budapest_traffic.jpg" alt="Photo by Aapo Haapanen on Flickr" />
+	<span class="credit"><a href="https://www.flickr.com/photos/decade_null/1858868091">Photo by Aapo Haapanen on Flickr</a> <a href="https://creativecommons.org/licenses/by/2.0/">Some rights reserved</a></span>
 </div>
 
 The Budapest public transportation company (BKK) has several options to visitors who stay for a few days.

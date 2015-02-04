@@ -301,12 +301,19 @@ a {
     display: inline-block;
   }
 
-  h2 {
+  h2, h3 {
     font-size: 25px;
     display: block;
     width: 800px;
     text-align: left;
     margin: 20px auto;
+  }
+
+  h3 {
+    font-size: 22px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: $red;
   }
 
   a {
@@ -318,7 +325,7 @@ a {
     }
   }
 
-  p, ul, ol {
+  p, ul, ol, .date {
     padding: 20px;
     width: 800px;
     margin: 0 auto;
@@ -372,6 +379,13 @@ a {
       }
     }
 
+  }
+
+  .date {
+    font-size: 14px;
+    display: inline-block;
+    padding: 0;
+    line-height: 16px;
   }
 
 }

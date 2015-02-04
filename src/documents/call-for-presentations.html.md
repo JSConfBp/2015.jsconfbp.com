@@ -9,8 +9,7 @@ We are inviting the JavaScript community to submit talks for the upcoming JSConf
 
 This Call for Presentation **closes on March 7th**.
 
-Please read this, to get more info on our CFP,<br /> 
-or just [skip to the form](#submit).
+Please read this, to get more info on our CFP, or just [skip to the form](#submit).
 
 <a id="topics" ></a>
 
@@ -44,8 +43,8 @@ skills you think you lack to deliver a great presentation.
 Get in touch: [team@jsconfbp.com](mailto:team@jsconfbp.com)<br />
 (just don’t use this to submit a proposal).
 
-If you need more encouragement, check out JSConf EU organiser Tiffany’s site [We Are All Awesome](http://weareallaweso.me/) 
-that tries to convince you to speak.
+If you need more encouragement, check out JSConf EU organiser <br />
+Tiffany’s site [We Are All Awesome](http://weareallaweso.me/) that tries to convince you to speak.
 
 <a id="perks" ></a>
 
