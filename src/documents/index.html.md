@@ -1,6 +1,6 @@
 ---
 layout: 'default'
-title: 'News'
+title: ''
 ---
 <p class="text-center text-big">
 	<b>JSConf Budapest</b> is a JSConf family member 2-day non-profit for-the-community by-the-community conference about JavaScript in Budapest, Hungary.
@@ -41,8 +41,110 @@ title: 'News'
 
 # Speakers
 
+<div class="speaker master-of-ceremony">
+    <div class="item">
+        <h4>Karolina Szczur</h4>
+        <p>
+            <a href="https://twitter.com/thefoxis">@thefoxis</a> <br />
+            Master of Ceremony
+        </p>
+        <span class="image"><img src="/images/speaker-karolina.jpg" /></span>
+    </div>
+</div>
+
 <ul class="speakers">
-    <li></li>
+    <li>
+        <h4>James Halliday</h4>
+        <p><a href="https://twitter.com/substack">@substack</a></p>
+        <span class="image"><img src="https://avatars3.githubusercontent.com/u/12631?v=3&s=460" /></span>
+    </li>
+
+    <li>
+        <h4>Fedor Indutny</h4>
+        <p><a href="https://twitter.com/indutny">@indutny</a></p>
+        <span class="image"><img src="https://pbs.twimg.com/profile_images/378800000250942797/525c8670f5a520ee281e0990cb8cad4d_400x400.png" /></span>
+    </li>
+
+    <li>
+        <h4>Soledad Penadés</h4>
+        <p><a href="https://twitter.com/">@supersole</a></p>
+        <span class="image"><img src="http://www.webvisionsevent.com/collateral/speakers/penad--s-soledad/pix/penades_soledad_xl.jpg" /></span>
+    </li>
+
+    <li>
+        <h4>André Staltz</h4>
+        <p><a href="https://twitter.com/andrestaltz">@andrestaltz</a></p>
+        <span class="image"><img src="https://pbs.twimg.com/profile_images/456380364735250432/xFvI2mou_400x400.jpeg" /></span>
+    </li>
+
+    <li>
+        <h4>Mikael Brevik</h4>
+        <p><a href="https://twitter.com/mikaelbrevik">@mikaelbrevik</a></p>
+        <span class="image"><img src="https://pbs.twimg.com/profile_images/479312234418413569/agvx2aBu_400x400.png" /></span>
+    </li>
+
+    <li>
+        <h4>Martin Kleppe</h4>
+        <p><a href="https://twitter.com/aemkei">@aemkei</a></p>
+        <span class="image"><img src="/images/speaker-martin-kleppe.jpg" /></span>
+    </li>
+
+    <li>
+        <h4>Jaume Sanchez Elias</h4>
+        <p><a href="https://twitter.com/thespite">@thespite</a></p>
+        <span class="image"><img src="http://pbs.twimg.com/profile_images/443525411226415104/3dA2hCFR.png" /></span>
+    </li>
+
+    <li>
+        <h4>Lena Reinhard</h4>
+        <p><a href="https://twitter.com/lrnrd">@lrnrd</a></p>
+        <span class="image"><img src="https://pbs.twimg.com/profile_images/556893024353923073/ji2T-mAY_400x400.jpeg" /></span>
+    </li>
+
+
+    <li>
+        <h4>Coming Soon</h4>
+
+        <span class="image"><img src="/images/speaker.png" /></span>
+    </li>
+    <li>
+        <h4>Coming Soon</h4>
+
+        <span class="image"><img src="/images/speaker.png" /></span>
+    </li>
+    <li>
+        <h4>Coming Soon</h4>
+
+        <span class="image"><img src="/images/speaker.png" /></span>
+    </li>
+    <li>
+        <h4>Coming Soon</h4>
+
+        <span class="image"><img src="/images/speaker.png" /></span>
+    </li>
+    <li>
+        <h4>Coming Soon</h4>
+
+        <span class="image"><img src="/images/speaker.png" /></span>
+    </li>
+    <li>
+        <h4>Coming Soon</h4>
+
+        <span class="image"><img src="/images/speaker.png" /></span>
+    </li>
+    <li>
+        <h4>Coming Soon</h4>
+
+        <span class="image"><img src="/images/speaker.png" /></span>
+    </li>
+    <li>
+        <h4>Coming Soon</h4>
+
+        <span class="image"><img src="/images/speaker.png" /></span>
+    </li>
+
+
+
 </ul>
 
 # Sponsors

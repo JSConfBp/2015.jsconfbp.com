@@ -388,6 +388,107 @@ a {
     line-height: 16px;
   }
 
+
+  .speakers {
+    padding-left: 0;
+  }
+
+
+  .speaker,
+  .speakers {
+    width: 100%;
+    max-width: 1280px;
+    display: block;
+    list-style: none;
+    clear:both;
+    margin: 0 auto;
+
+    .item,
+    li {
+      display: inline-block;
+      float: left;
+      width: 25%;
+      min-width: 320px;
+      height: 120px;
+      position: relative;
+      box-sizing: border-box;
+      padding-left: 138px;
+      margin-bottom: 40px;
+
+      h4 {
+        text-align: left;
+        margin-bottom: 0;
+        margin-top: 22px;
+      }
+
+      p {
+        width: auto;
+        line-height: 22px;
+      }
+
+      .image {
+        position: absolute;
+        width: 114px;
+        height: 114px;
+        overflow: hidden;
+        border-radius: 60px;
+        border: 3px solid $yellow;
+        left: 0;
+        top: 0;
+        cursor: pointer;
+
+        img {
+          width: 114px;
+        }
+
+      }
+
+
+    }
+
+    :after {
+      display: block;
+      content: '';
+      width: 100%;
+      clear: both;
+    }
+  }
+
+  .speaker {
+
+
+    .item {
+
+    }
+  }
+
+  .master-of-ceremony {
+    text-align: center;
+
+    .item {
+      text-align: center;
+      width: 50%;
+      height: auto;
+      float: none;
+      padding: 111px 0 0 0;
+
+      .image {
+        left: 50%;
+        margin-left: -60px;
+        border-color: $red
+      }
+      h4, p {
+        text-align: center;
+      }
+      p {
+        padding: 0;
+        line-height: 30px;
+      }
+    }
+  }
+
+
+
 }
 
 #footer {
@@ -395,4 +496,15 @@ a {
   padding: 20px 0;
   font-size: 14px;
   font-weight: 200;
+
+  :before {
+    border-top: 1px solid #e3e3e3;
+    width: 20%;
+    margin: 0 auto;
+    height: 30px;
+    content:'';
+    display: block;
+  }
 }
+
+
