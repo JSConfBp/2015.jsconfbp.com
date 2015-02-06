@@ -430,20 +430,20 @@ a {
         position: absolute;
         width: 114px;
         height: 114px;
-        overflow: hidden;
-        border-radius: 60px;
-        border: 3px solid $yellow;
         left: 0;
         top: 0;
-        cursor: pointer;
 
         img {
+          border: 3px solid $yellow;
+          transition: transform .1s ease-out;
           width: 114px;
+          border-radius: 100%;
         }
-
       }
 
-
+      &:hover .image img {
+        transform: scale(1.05);
+      }
     }
 
     :after {
@@ -451,14 +451,6 @@ a {
       content: '';
       width: 100%;
       clear: both;
-    }
-  }
-
-  .speaker {
-
-
-    .item {
-
     }
   }
 
@@ -486,9 +478,6 @@ a {
       }
     }
   }
-
-
-
 }
 
 #footer {
@@ -507,4 +496,21 @@ a {
   }
 }
 
+#BuyButton {
+  margin: 20px auto 10px;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 5px;
+  background: $red;
+  padding: 20px;
+  display: block;
+  width: 300px;
+  font-weight: 900;
 
+  transition: background .2s ease-out;
+
+  &:hover {
+    text-decoration: none !important;
+    background: lighten($red, 10%);
+  }
+}

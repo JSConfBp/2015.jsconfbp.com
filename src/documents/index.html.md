@@ -4,6 +4,7 @@ title: ''
 ---
 <p class="text-center text-big">
 	<b>JSConf Budapest</b> is a JSConf family member 2-day non-profit for-the-community by-the-community conference about JavaScript in Budapest, Hungary.
+	<a href="#" id="BuyButton">Buy ticket</a>
 </p>
 
 # News

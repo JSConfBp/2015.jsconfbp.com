@@ -7,6 +7,24 @@ $(function () {
 
 	$(window).on('scroll', refreshPositions);
 
+	$('a').on('click', function (e) {
+		var target = $(this),
+			href = target.attr('href'),
+			position = 0;
+
+		if (href[0] === '/') {
+			return;
+		}
+
+		e.preventDefault();
+		
+		if (href[0] === '#' && href.length > 1) {
+			position = $(href).offset().top;
+		}
+
+		$(document.body).animate({scrollTop: position});
+	});
+
 	function refreshPositions () {
 		var scroll = document.body.scrollTop / 120;
 
