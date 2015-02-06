@@ -38,7 +38,8 @@ a {
   padding: 50px 0 20px;
   text-align: center;
   color: #fff;
-  height: 424px;
+  height: 494px;
+  box-sizing: border-box;
 
   h1 {
     font-size: 30px;
@@ -391,6 +392,7 @@ a {
 
   .speakers {
     padding-left: 0;
+    padding-right: 0;
   }
 
 
@@ -417,8 +419,9 @@ a {
 
       h4 {
         text-align: left;
-        margin-bottom: 0;
-        margin-top: 22px;
+        margin-bottom: 6px;
+        margin-top: 28px;
+        line-height: 24px;
       }
 
       p {

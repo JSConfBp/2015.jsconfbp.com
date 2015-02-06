@@ -4,7 +4,7 @@ title: ''
 ---
 <p class="text-center text-big">
 	<b>JSConf Budapest</b> is a JSConf family member 2-day non-profit for-the-community by-the-community conference about JavaScript in Budapest, Hungary.
-	<a href="#" id="BuyButton">Buy ticket</a>
+	<a href="https://ti.to/jsconf-bp/jsconfbp2015" id="BuyButton">Buy ticket</a>
 </p>
 
 # News
@@ -22,7 +22,7 @@ title: ''
 
     <ul>
         <li>Early Bird price is €100 + VAT + Fees = €130</li>
-        <li>You can pay with card, or PayPal</li>
+        <li>You can pay with PayPal</li>
         <li>Ticket sales will be done through [Tito](https://ti.to/jsconf-bp/jsconfbp2015).</li>
         <li>Your ticket covers the following:
             <ul>
@@ -57,31 +57,31 @@ title: ''
     <li>
         <h4>James Halliday</h4>
         <p><a href="https://twitter.com/substack">@substack</a></p>
-        <span class="image"><img src="https://avatars3.githubusercontent.com/u/12631?v=3&s=460" /></span>
+        <span class="image"><img src="/images/speaker-substack.jpeg" /></span>
     </li>
 
     <li>
         <h4>Fedor Indutny</h4>
         <p><a href="https://twitter.com/indutny">@indutny</a></p>
-        <span class="image"><img src="https://pbs.twimg.com/profile_images/378800000250942797/525c8670f5a520ee281e0990cb8cad4d_400x400.png" /></span>
+        <span class="image"><img src="/images/speaker-fedor.png" /></span>
     </li>
 
     <li>
         <h4>Soledad Penadés</h4>
-        <p><a href="https://twitter.com/">@supersole</a></p>
-        <span class="image"><img src="http://www.webvisionsevent.com/collateral/speakers/penad--s-soledad/pix/penades_soledad_xl.jpg" /></span>
+        <p><a href="https://twitter.com/supersole">@supersole</a></p>
+        <span class="image"><img src="/images/speaker-supersole.png" /></span>
     </li>
 
     <li>
         <h4>André Staltz</h4>
         <p><a href="https://twitter.com/andrestaltz">@andrestaltz</a></p>
-        <span class="image"><img src="https://pbs.twimg.com/profile_images/456380364735250432/xFvI2mou_400x400.jpeg" /></span>
+        <span class="image"><img src="/images/speaker-andre.jpeg" /></span>
     </li>
 
     <li>
         <h4>Mikael Brevik</h4>
         <p><a href="https://twitter.com/mikaelbrevik">@mikaelbrevik</a></p>
-        <span class="image"><img src="https://pbs.twimg.com/profile_images/479312234418413569/agvx2aBu_400x400.png" /></span>
+        <span class="image"><img src="/images/speaker-brevik.png" /></span>
     </li>
 
     <li>
@@ -91,15 +91,15 @@ title: ''
     </li>
 
     <li>
-        <h4>Jaume Sanchez Elias</h4>
+        <h4>Jaume Sanchez<br />Elias</h4>
         <p><a href="https://twitter.com/thespite">@thespite</a></p>
-        <span class="image"><img src="http://pbs.twimg.com/profile_images/443525411226415104/3dA2hCFR.png" /></span>
+        <span class="image"><img src="/images/speaker-thespite.png" /></span>
     </li>
 
     <li>
         <h4>Lena Reinhard</h4>
         <p><a href="https://twitter.com/lrnrd">@lrnrd</a></p>
-        <span class="image"><img src="https://pbs.twimg.com/profile_images/556893024353923073/ji2T-mAY_400x400.jpeg" /></span>
+        <span class="image"><img src="/images/speaker-lena.jpeg" /></span>
     </li>
 
 
