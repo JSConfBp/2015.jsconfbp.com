@@ -21,7 +21,7 @@ title: ''
     </p>
 
     <ul>
-        <li>Early Bird price is €100 + VAT + Fees = €130</li>
+        <li>Early Bird price is €100 + VAT + Fees = €133</li>
         <li>You can pay with PayPal</li>
         <li>Ticket sales will be done through [Tito](https://ti.to/jsconf-bp/jsconfbp2015).</li>
         <li>Your ticket covers the following:

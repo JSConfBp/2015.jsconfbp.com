@@ -395,7 +395,7 @@ a {
     padding-right: 0;
   }
 
-
+  .organizers,
   .speaker,
   .speakers {
     width: 100%;
@@ -480,6 +480,10 @@ a {
         line-height: 30px;
       }
     }
+  }
+
+  .organizers {
+    max-width: 640px;
   }
 }
 
