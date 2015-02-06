@@ -12,17 +12,19 @@ $(function () {
 			href = target.attr('href'),
 			position = 0;
 
-		if (href[0] === '/') {
+		if (href[1] !== '#' || location.pathname !== '/') {
 			return;
 		}
 
 		e.preventDefault();
 
-		if (href[0] === '#' && href.length > 1) {
-			position = $(href).offset().top;
+		if (href[1] === '#' && href.length > 1) {
+			position = $(href.slice(1)).offset().top;
 		}
 
-		$(document.body).animate({scrollTop: position});
+		$(document.body).animate({scrollTop: position}, function () {
+			document.location.hash = href.replace('#','');
+		});
 	});
 
 	function refreshPositions () {

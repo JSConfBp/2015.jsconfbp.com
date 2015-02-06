@@ -24,13 +24,13 @@
 			<div id="navigation">
 				<ul>
 					<li>
-						<a href="#"><span class="circle"></span></a>
+						<a href="/#"><span class="circle"></span></a>
 					</li>
 					<li>
-						<a href="#speakers">Speakers</a>
+						<a href="/#speakers">Speakers</a>
 					</li>
 					<li>
-						<a href="#sponsors">Sponsors</a>
+						<a href="/#sponsors">Sponsors</a>
 					</li>
 					<li>
 						<a href="<%- @getPath('call-for-presentations.html','/') %>">Call For Presentations</a>
