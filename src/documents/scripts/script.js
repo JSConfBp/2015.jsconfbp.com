@@ -17,7 +17,7 @@ $(function () {
 		}
 
 		e.preventDefault();
-		
+
 		if (href[0] === '#' && href.length > 1) {
 			position = $(href).offset().top;
 		}
