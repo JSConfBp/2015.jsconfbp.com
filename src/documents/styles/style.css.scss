@@ -578,12 +578,21 @@ a {
 
     }
 
+    .organizers,
+    .speaker,
     .speakers {
       text-align: center;
+      padding-left: 0;
+      width: auto;
+
       li {
         margin: 0 auto;
         margin-bottom: 40px;
         float: none;
+
+        .image {
+          left: 8px;
+        }
       }
     }
 
@@ -606,6 +615,12 @@ a {
       }
     }
   }
+
+  #BuyButton {
+    width: 80%;
+    box-sizing: border-box;
+  }
+
 
 
 }
