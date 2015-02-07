@@ -306,6 +306,7 @@ a {
     font-size: 25px;
     display: block;
     width: 800px;
+    max-width: 100%;
     text-align: left;
     margin: 20px auto;
   }
@@ -329,7 +330,10 @@ a {
   p, ul, ol, .date {
     padding: 20px;
     width: 800px;
+    max-width: 100%;
     margin: 0 auto;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
     text-align: left;
   }
 
@@ -415,7 +419,6 @@ a {
       display: inline-block;
       float: left;
       width: 25%;
-      min-width: 320px;
       height: 120px;
       position: relative;
       box-sizing: border-box;
@@ -534,6 +537,14 @@ a {
       background-size: auto 100%;
     }
   }
+}
+
+@media (max-width: 1100px) {
+  #content .news-entry {
+    ul {
+      width: 600px;
+    }
+  }
 
   #content .speakers {
     -moz-box-sizing: border-box;
@@ -542,14 +553,6 @@ a {
 
     li {
       width: 50%;
-    }
-  }
-}
-
-@media (max-width: 1000px) {
-  #content .news-entry {
-    ul {
-      width: 600px;
     }
   }
 }
@@ -566,6 +569,12 @@ a {
       display: block;
       margin: 0 auto;
       line-height: 34px;
+    }
+  }
+
+  #content .news-entry {
+    ul {
+      width: auto;
     }
   }
 }
