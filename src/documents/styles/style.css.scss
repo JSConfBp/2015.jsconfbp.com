@@ -650,21 +650,24 @@ a {
 }
 
 @media (max-width: 600px) {
-  .organizers,
-  .speaker,
-  .speakers {
-    text-align: center;
-    padding-left: 0;
-    width: auto;
+  #content {
+    .organizers,
+    .speaker,
+    .speakers {
+      text-align: center;
+      padding-left: 0;
+      width: auto;
 
-    li {
-      margin: 0 auto;
-      margin-bottom: 40px;
-      float: none;
+      li {
+        margin: 0 auto;
+        margin-bottom: 40px;
+        float: none;
+        width: 100%;
 
-      .image {
-        left: 8px;
+        .image {
+          left: 8px;
+        }
       }
-    }
+    }/**/
   }
 }
