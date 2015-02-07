@@ -333,12 +333,6 @@ a {
     text-align: left;
   }
 
-  .news-entry {
-    ul {
-      width: auto;
-    }
-  }
-
   ul {
     padding-left: 60px;
 
@@ -552,6 +546,14 @@ a {
   }
 }
 
+@media (max-width: 1000px) {
+  #content .news-entry {
+    ul {
+      width: 600px;
+    }
+  }
+}
+
 @media (max-width: 900px) {
   #header {
     height: auto;
@@ -580,6 +582,12 @@ a {
       width: 110%;
       height: 140%;
       background-size: auto 100%;
+    }
+  }
+
+  #content .news-entry {
+    ul {
+      width: auto;
     }
   }
 
