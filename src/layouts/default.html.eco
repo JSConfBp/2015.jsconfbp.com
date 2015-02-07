@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+	<head lang="en">
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<title><%= @getPreparedTitle() %></title>
+		<meta name="description" content="<%= @getPreparedDescription() %>" />
+		<meta name="keywords" content="<%= @getPreparedKeywords() %>" />
+
+		<%- @getBlock('meta').toHTML() %>
+
+		<link href='//fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+		<%- @getBlock('styles').add(@getGruntedStyles()).toHTML() %>
+
+		<link rel="shortcut icon" href="./favicon.ico">
+	</head>
+	<body>
+		<div id="header">
+
+			<%- @partial('logo') %>
+			<%- @partial('title') %>
+
+			<div id="navigation">
+				<ul>
+					<li>
+						<a href="/#"><span class="circle"></span></a>
+					</li>
+					<li>
+						<a href="/#speakers">Speakers</a>
+					</li>
+					<li>
+						<a href="/#sponsors">Sponsors</a>
+					</li>
+					<li>
+						<a href="<%- @getPath('call-for-presentations.html','/') %>">Call For Presentations</a>
+					</li>
+					<li>
+						<a href="<%- @getPath('budapest-guide.html','/') %>">Budapest Guide</a>
+					</li>
+					<li>
+						<a href="<%- @getPath('about.html','/') %>">About</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="bg-layer"></div>
+		</div>
+
+		<div id="content">
+			<%- @content %>
+		</div>
+
+		<%- @partial('footer') %>
+
+		<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+		<!-- DocPad Scripts + Our Own -->
+		<%- @getBlock('scripts').add(@getGruntedScripts()).toHTML() %>
+	</body>
+</html>
