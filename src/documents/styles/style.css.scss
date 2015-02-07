@@ -363,6 +363,11 @@ a {
       width: 100%;
     }
 
+    img.airport {
+      top: auto;
+      bottom: -50%;
+    }
+
     span.credit {
       position: absolute;
       right: 0;
@@ -492,6 +497,7 @@ a {
   padding: 20px 0;
   font-size: 14px;
   font-weight: 200;
+  line-height: 26px;
 
   :before {
     border-top: 1px solid #e3e3e3;
@@ -520,4 +526,86 @@ a {
     text-decoration: none !important;
     background: lighten($red, 10%);
   }
+}
+
+
+@media (max-width: 480px) {
+  #header {
+
+    height: 620px;
+
+
+    .bg-layer {
+
+      -webkit-animation: none;
+      animation: none;
+      width: 110%;
+      height: 140%;
+      background-size: auto 100%;
+    }
+
+    #navigation {
+      margin-top: 30px;
+
+      li {
+        display: block;
+        margin: 0 auto;
+        line-height: 34px;
+      }
+    }
+  }
+
+  #content {
+    font-size: 18px;
+
+    p, ul, ol, .date, h2, h3 {
+      padding: 10px;
+      width: auto;
+      margin: 0 auto;
+      text-align: left;
+    }
+
+    h3 {
+      padding: 0 10px;
+    }
+
+    ul {
+      padding-left: 40px;
+
+      p {
+        padding: 0;
+      }
+
+    }
+
+    .speakers {
+      text-align: center;
+      li {
+        margin: 0 auto;
+        margin-bottom: 40px;
+        float: none;
+      }
+    }
+
+    iframe {
+      width: 100%;
+    }
+    .decoration {
+      height: 200px;
+
+      img {
+        top: -10%;
+      }
+
+      img.airport {
+        top: auto;
+        bottom: 0;
+      }
+      span.credit a {
+        font-size: 8px;
+      }
+    }
+  }
+
+
 }

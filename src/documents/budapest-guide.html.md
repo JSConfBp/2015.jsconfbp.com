@@ -43,7 +43,7 @@ Several hotels can be found near the venue:
 ## Airport shuttle
 
 <div class="decoration">
-	<img src="/images/budapest_airport.jpg" alt="Photo by Hatem Riahi on Flickr" style="top: auto; bottom: -50%;" />
+	<img src="/images/budapest_airport.jpg" alt="Photo by Hatem Riahi on Flickr" class="airport" />
 	<span class="credit"><a href="https://www.flickr.com/photos/hatm/5566002012">Photo by Hatem Riahi on Flickr</a> <a href="https://creativecommons.org/licenses/by/2.0/">Some rights reserved</a></span>
 </div>
 
@@ -52,7 +52,7 @@ There is a [public transport line 200E](http://www.bkk.hu/en/2012/07/take-public
 to connect with the Metro line 3 at Kőbánya-Kispest, from where you can reach any part of the city by public transport.
 
 
-[More information on how to get to and from th airport by public transport](http://www.bkk.hu/apps/docs/terkep/repter.pdf)
+[More information on how to get to and from the airport by public transport](http://www.bkk.hu/apps/docs/terkep/repter.pdf)
 
 Or you can take a taxi, at the dedicated taxi stations at 2A and 2B terminals. You have to tell the operators your destination, 
 they will call you a car, and give a good estimate on the fare, which is usually around 19 EUR to the city center.
