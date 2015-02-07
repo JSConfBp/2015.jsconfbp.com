@@ -12,7 +12,8 @@ title: 'About'
 </p>
 <p>
     We're aim to be the JSConf of the region around Eastern-Middle Europe, an area so diverse in culture, people and views.
-    A strictly nonprofit, open-sourced and community driven conference for the community of JavaScript
+    A strictly nonprofit, open-sourced and community driven conference for the community of JavaScript,
+    with the purpose to build and educate about new technologies, ideas and culture. 
 </p>
 
 <h2>

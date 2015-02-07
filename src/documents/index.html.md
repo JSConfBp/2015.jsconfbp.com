@@ -97,11 +97,9 @@ title: ''
     </li>
 
     <li>
-            <h4>Coming Soon</h4>
-
-            <span class="image"><img src="/images/speaker.png" /></span>
-        </li>
-
+         <h4>Coming Soon</h4>
+         <span class="image"><img src="/images/speaker.png" /></span>
+    </li>
 
     <li>
         <h4>Coming Soon</h4>
