@@ -25,7 +25,7 @@ $(function () {
 		}
 
 		$(document.body).animate({scrollTop: position}, function () {
-			document.location.hash = href.replace('#','');
+			document.location.hash = href.replace(/#|\//,'');
 		});
 	});
 
