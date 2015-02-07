@@ -1,11 +1,13 @@
 $(function () {
-	refreshPositions();
+	if (window.innerWidth > 600) {
+		refreshPositions();
 
-	setTimeout(function () {
-		$('#header').addClass('disable-transition');
-	}, 400);
+		setTimeout(function () {
+			$('#header').addClass('disable-transition');
+		}, 400);
 
-	$(window).on('scroll', refreshPositions);
+		$(window).on('scroll', refreshPositions);
+	}
 
 	$('a').on('click', function (e) {
 		var target = $(this),
