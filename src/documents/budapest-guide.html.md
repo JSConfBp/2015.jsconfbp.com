@@ -36,7 +36,7 @@ Several hotels can be found near the venue:
 - [Astoria City Hostel](http://astoriacityhostel.com/)
 - [Hostel Budapest Center](http://www.hostelbudapestcenter.com/)
 - [Hotel Ambra](http://hotelambra.hu/en)
-- [Roobach Hotel](http://www.roombachhotel.com/)
+- [Roombach Hotel](http://www.roombachhotel.com/)
 - [Le Meridien Budapest](http://www.lemeridienbudapest.com/)
 - [Kempinski Hotel Corvinus](http://www.kempinski.com/en/budapest/hotel-corvinus/welcome/)
 - [Regency Hotel Budapest](http://regencyhotelbudapest.com/)
@@ -75,7 +75,7 @@ discounts on entry fees to baths, museums, and can be bought online.
 ## Mobile data plan
 
 In Hungary there is three main mobile network operators, T-Mobile, (member of the Deutsche Telekom group), Telenor hungary, 
-(member of the Norvegian Telenor group) and Vodafone.
+(member of the Norwegian Telenor group) and Vodafone.
 
 - [T-Mobile has a prepaid option for mobile internet](http://www.t-mobile.hu/english/mobilinternet/pre_paid#Domino_net_100)
 - [Telenor also has a prepaid mobile internet plan](http://www.telenor.hu/en/en/kartyas-tarifa/limit-net)

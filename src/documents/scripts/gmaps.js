@@ -41,7 +41,7 @@ function initialize_gmap() {
       position:  new google.maps.LatLng(47.5008749,19.0617632)
     },
     {
-      name: "Roobach Hotel",
+      name: "Roombach Hotel",
       website: "http://www.roombachhotel.com/",
       position:  new google.maps.LatLng(47.4978693,19.0581532)
     },
