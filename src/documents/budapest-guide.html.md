@@ -20,8 +20,10 @@ Budapest was recently listed within the top 6 cities in Europe, best suited for 
 
 ## Hotels near the venue
 
-<div class="decoration">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5391.356897504714!2d19.056338403789283!3d47.4961771547755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1shu!2shu!4v1422976561957" width="100%" height="300" frameborder="0" style="border:0"></iframe>
+<div class="gmap">
+  <div id="map-canvas">
+    <!-- Google Map of hotel locations -->
+  </div>
 </div>
 
 Our venue is in the heart of the city, near Astoria, the Great Synagogue at Dohány street, and the party quarters in Budapest. The following districts around are a relatively short distance away:
