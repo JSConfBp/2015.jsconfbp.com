@@ -97,8 +97,9 @@ title: ''
     </li>
 
     <li>
-         <h4>Coming Soon</h4>
-         <span class="image"><img src="/images/speaker.png" /></span>
+        <h4>Pascal Precht</h4>
+        <p><a href="https://twitter.com/pascalprecht" target="_blank">@pascalprecht</a></p>
+        <span class="image"><img src="/images/speaker-pascal.jpeg" /></span>
     </li>
 
     <li>
