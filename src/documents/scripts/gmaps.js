@@ -22,7 +22,7 @@ function initialize_gmap() {
     {
       name: "The Venue",
       website: null,
-      position:  new google.maps.LatLng(47.496177, 19.056338),
+      position:  new google.maps.LatLng(47.495354,19.064917),
       is_the_venue: true
     },
     {
