@@ -1,11 +1,13 @@
 $(function () {
-	refreshPositions();
+	if (window.innerWidth > 600) {
+		refreshPositions();
 
-	setTimeout(function () {
-		$('#header').addClass('disable-transition');
-	}, 400);
+		setTimeout(function () {
+			$('#header').addClass('disable-transition');
+		}, 400);
 
-	$(window).on('scroll', refreshPositions);
+		$(window).on('scroll', refreshPositions);
+	}
 
 	$('a').on('click', function (e) {
 		var target = $(this),
@@ -23,7 +25,7 @@ $(function () {
 		}
 
 		$(document.body).animate({scrollTop: position}, function () {
-			document.location.hash = href.replace('#','');
+			document.location.hash = href.replace(/#|\//,'');
 		});
 	});
 

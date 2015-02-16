@@ -1,7 +1,7 @@
 {
   "min": {
     "js": {
-      "src": ["scripts/script.js"],
+      "src": ["scripts/script.js", "scripts/gmaps.js"],
       "dest": "scripts/all.min.js"
     }
   },

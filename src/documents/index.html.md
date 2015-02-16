@@ -4,7 +4,7 @@ title: ''
 ---
 <p class="text-center text-big">
 	<b>JSConf Budapest</b> is a JSConf family member 2-day non-profit for-the-community by-the-community conference about JavaScript in Budapest, Hungary.
-	<a href="https://ti.to/jsconf-bp/jsconfbp2015" id="BuyButton">Buy ticket</a>
+	<a href="https://ti.to/jsconf-bp/jsconfbp2015" id="BuyButton" target="_blank">Buy ticket</a>
 </p>
 
 # News
@@ -15,7 +15,7 @@ title: ''
     <h3>Ticket sales, CFP and our new site!</h3>
     
     <p>
-        <strong>Early Bird Tickets</strong> are [on sale from today until the batch is available](https://ti.to/jsconf-bp/jsconfbp2015)!
+        <strong>Early Bird Tickets</strong> are <a href="https://ti.to/jsconf-bp/jsconfbp2015" target="_blank">on sale from today until the batch is available</a>!
         <br />
         Here's all the information of the tickets:
     </p>
@@ -23,7 +23,7 @@ title: ''
     <ul>
         <li>Early Bird price is €100 + VAT + Fees = €133</li>
         <li>You can pay with PayPal</li>
-        <li>Ticket sales will be done through [Tito](https://ti.to/jsconf-bp/jsconfbp2015).</li>
+        <li>Ticket sales will be done through <a href="https://ti.to/jsconf-bp/jsconfbp2015" target="_blank">Tito</a>.</li>
         <li>Your ticket covers the following:
             <ul>
                 <li>2 days of conference</li>
@@ -46,7 +46,7 @@ title: ''
     <div class="item">
         <h4>Karolina Szczur</h4>
         <p>
-            <a href="https://twitter.com/thefoxis">@thefoxis</a> <br />
+            <a href="https://twitter.com/fox">@fox</a> <br />
             Master of Ceremony
         </p>
         <span class="image"><img src="/images/speaker-karolina.jpg" /></span>
@@ -56,49 +56,50 @@ title: ''
 <ul class="speakers">
     <li>
         <h4>James Halliday</h4>
-        <p><a href="https://twitter.com/substack">@substack</a></p>
+        <p><a href="https://twitter.com/substack" target="_blank">@substack</a></p>
         <span class="image"><img src="/images/speaker-substack.jpeg" /></span>
     </li>
 
     <li>
         <h4>Fedor Indutny</h4>
-        <p><a href="https://twitter.com/indutny">@indutny</a></p>
+        <p><a href="https://twitter.com/indutny" target="_blank">@indutny</a></p>
         <span class="image"><img src="/images/speaker-fedor.png" /></span>
     </li>
 
     <li>
         <h4>Soledad Penadés</h4>
-        <p><a href="https://twitter.com/supersole">@supersole</a></p>
+        <p><a href="https://twitter.com/supersole" target="_blank" >@supersole</a></p>
         <span class="image"><img src="/images/speaker-supersole.png" /></span>
     </li>
 
     <li>
         <h4>André Staltz</h4>
-        <p><a href="https://twitter.com/andrestaltz">@andrestaltz</a></p>
+        <p><a href="https://twitter.com/andrestaltz" target="_blank">@andrestaltz</a></p>
         <span class="image"><img src="/images/speaker-andre.jpeg" /></span>
     </li>
 
     <li>
         <h4>Mikael Brevik</h4>
-        <p><a href="https://twitter.com/mikaelbrevik">@mikaelbrevik</a></p>
+        <p><a href="https://twitter.com/mikaelbrevik" target="_blank">@mikaelbrevik</a></p>
         <span class="image"><img src="/images/speaker-brevik.png" /></span>
     </li>
 
     <li>
         <h4>Martin Kleppe</h4>
-        <p><a href="https://twitter.com/aemkei">@aemkei</a></p>
+        <p><a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></p>
         <span class="image"><img src="/images/speaker-martin-kleppe.jpg" /></span>
     </li>
 
     <li>
         <h4>Jaume Sanchez<br />Elias</h4>
-        <p><a href="https://twitter.com/thespite">@thespite</a></p>
+        <p><a href="https://twitter.com/thespite" target="_blank">@thespite</a></p>
         <span class="image"><img src="/images/speaker-thespite.png" /></span>
     </li>
 
     <li>
-         <h4>Coming Soon</h4>
-         <span class="image"><img src="/images/speaker.png" /></span>
+        <h4>Pascal Precht</h4>
+        <p><a href="https://twitter.com/pascalprecht" target="_blank">@pascalprecht</a></p>
+        <span class="image"><img src="/images/speaker-pascal.jpeg" /></span>
     </li>
 
     <li>
