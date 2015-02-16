@@ -391,6 +391,14 @@ a {
 
   }
 
+  .decoration.venue {
+    height: 500px;
+
+    img {
+      top: -33%;
+    }
+  }
+
   .date {
     font-size: 14px;
     display: inline-block;
@@ -551,6 +559,15 @@ a {
       width: 50%;
     }
   }
+
+  #content .decoration.venue {
+    height: 400px;
+
+    img {
+      top: -33%;
+    }
+  }
+
 }
 
 @media (max-width: 900px) {
@@ -572,6 +589,9 @@ a {
     ul {
       width: auto;
     }
+  }
+  #content .decoration.venue img {
+     top: 0;
   }
 }
 
@@ -636,6 +656,15 @@ a {
       }
       span.credit a {
         font-size: 8px;
+      }
+    }
+
+    .decoration.venue {
+      height: auto;
+
+      img {
+        position: relative;
+        top: 0px;
       }
     }
   }

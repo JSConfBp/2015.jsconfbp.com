@@ -142,10 +142,18 @@ title: ''
 
         <span class="image"><img src="/images/speaker.png" /></span>
     </li>
-
-
-
 </ul>
+
+# Venue
+
+<div class="decoration venue">
+	<img src="/images/urania-1.jpg" alt="Uránia Nemzeti Filmszínház" />
+</div>
+
+[Uránia Cinema in the middle of the city](https://goo.gl/maps/FB2r9), near the party-district. Designed by Henrik Schmahl in the late 1890's, the interior is
+characterized by the ornamental motifs of the Venetian Gothic and Moor styles. The place is listed as the [world's 3rd most beautiful cinema on
+Bored Panda](http://www.boredpanda.com/urania-national-film-theatre-budapest-hungary/), and many tech conferences were hosted here recently, like **TEDx**,
+and Strech Conference, because of the unique atmosphere.
 
 # Sponsors
 
