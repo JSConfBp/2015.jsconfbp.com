@@ -247,6 +247,37 @@ a {
   }
 }
 
+#social {
+  width: 100%;
+  margin: 0 auto;
+  text-align: right;
+  height: 32px;
+  padding-top: 60px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+
+  a {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    text-indent: 9999px;
+    overflow: hidden;
+    background: url(/images/social.png);
+    background-size: auto 100%;
+    margin-right: 60px;
+  }
+
+  a.twitter {
+    background-position: 0 0;
+  }
+
+  a.facebook {
+    background-position: -32px 0;
+  }
+}
+
 #navigation {
   margin-top: 60px;
 
@@ -573,6 +604,17 @@ a {
 @media (max-width: 900px) {
   #header {
     height: auto;
+  }
+
+  #social {
+    text-align: center;
+    padding-top: 20px;
+    position: relative;
+    line-height: 32px;
+
+    a {
+      margin: 0 20px;
+    }
   }
 
   #navigation {
