@@ -10,7 +10,36 @@ title: ''
 # News
 
 <div class="news-entry">
-    
+
+    <small class="date" id="news201502018">18 February 2015</small>
+        <h3>Diversity Supporter ticket and Ambassador Program</h3>
+
+        <p>
+            <strong>Diversity Supporter</strong> tickets are <a href="https://ti.to/jsconf-bp/jsconfbp2015" target="_blank">on sale from today</a>!
+            How does it work:
+        </p>
+
+        <ul>
+            <li>Price is €200 + €100 + VAT + Fees = €400</li>
+            <li>
+                This contains <strong>two tickets</strong>: one for you, and one for a beneficiary person, whom you support.
+                This person can be a fellow coworker, a meetup member, the only important rule is,
+                that the beneficiary <strong>must be from another gender</strong>
+            </li>
+            <li>The beneficiary will receive the ticket over an email address, which you have to provide on purchase</li>
+        </ul>
+
+        <p>
+            Our <strong>Ambassador Program</strong> is for meetup groups and communities:
+        </p>
+        <ul>
+            <li>You can <a href="https://docs.google.com/forms/d/12yUqcaY8euTM83bRUdDXbhqIz92iJm0HsN-EZvQBjqo/viewform">apply for the ambassador program here</a></li>
+            <li>We provide a <strong>€50 discount coupon</strong> code for your community</li>
+            <li>For every <strong>5 ticket</strong> sold with this coupon code, we provide a <strong>free ticket</strong> for the ambassador who applied for the coupon</li>
+        </ul>
+</div>
+
+<div class="news-entry">
     <small class="date" id="news20150207">7 February 2015</small>
     <h3>Ticket sales, CFP and our new site!</h3>
     
