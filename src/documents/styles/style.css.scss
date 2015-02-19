@@ -333,7 +333,7 @@ a {
     display: inline-block;
   }
 
-  h2, h3 {
+  h2, h3, h4 {
     font-size: 25px;
     display: block;
     width: 800px;
@@ -347,6 +347,13 @@ a {
     margin-top: 0;
     margin-bottom: 0;
     color: $red;
+  }
+
+  h4 {
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+
   }
 
   a {
@@ -405,6 +412,20 @@ a {
     img.airport {
       top: auto;
       bottom: -50%;
+    }
+
+    img.heroes {
+      top: auto;
+      bottom: -60%;
+    }
+
+    img.parlament {
+      top: auto;
+      bottom: -80%;
+    }
+
+    img.castle {
+      top: 0;
     }
 
     span.credit {
@@ -603,6 +624,11 @@ a {
     }
   }
 
+  #content .decoration img.castle {
+    height: 120%;
+    width: auto;
+    top: 0;
+  }
 }
 
 @media (max-width: 900px) {
@@ -636,8 +662,51 @@ a {
       width: auto;
     }
   }
+
+  #content {
+    font-size: 18px;
+
+    p, ul, ol, .date, h2, h3, h4 {
+      padding: 10px;
+      width: auto;
+      margin: 0 auto;
+      text-align: left;
+    }
+
+    h3, h4 {
+      padding: 0 10px;
+    }
+
+    ul {
+      padding-left: 40px;
+
+      p {
+        padding: 0;
+      }
+
+    }
+
+    iframe {
+      width: 100%;
+    }
+  }
+
   #content .decoration.venue img {
      top: 0;
+  }
+
+  #content .decoration img.heroes {
+    bottom: 0;
+  }
+
+  #content .decoration img.castle {
+    bottom: 0;
+    top: 0;
+    height: 120%;
+    width: auto;
+  }
+  #content .decoration img.heroes {
+    bottom: -10%;
   }
 }
 
@@ -662,31 +731,7 @@ a {
   }
 
   #content {
-    font-size: 18px;
 
-    p, ul, ol, .date, h2, h3 {
-      padding: 10px;
-      width: auto;
-      margin: 0 auto;
-      text-align: left;
-    }
-
-    h3 {
-      padding: 0 10px;
-    }
-
-    ul {
-      padding-left: 40px;
-
-      p {
-        padding: 0;
-      }
-
-    }
-
-    iframe {
-      width: 100%;
-    }
 
     .decoration {
       height: 200px;
