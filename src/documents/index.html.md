@@ -255,8 +255,6 @@ and Strech Conference, because of the unique atmosphere.
         <img src="/images/ustream.png" class="tier3" />
     </a>
 
-    <h4>Organized by</h4>
-
     <a href="http://risingstack.com/">
         <img src="/images/risingstack.png" class="tier3" />
     </a>
