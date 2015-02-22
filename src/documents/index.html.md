@@ -4,8 +4,22 @@ title: ''
 ---
 <p class="text-center text-big">
 	<b>JSConf Budapest</b> is a JSConf family member 2-day non-profit for-the-community by-the-community conference about JavaScript in Budapest, Hungary.
-	<a href="https://ti.to/jsconf-bp/jsconfbp2015" id="BuyButton" target="_blank">Buy ticket</a>
 </p>
+
+# Tickets
+
+<div id="buytickets">
+    <div class="ticket regular">
+        <h3>Regular Coder</h3>
+        <p><strong>€200 + VAT + Fees = €266</strong></p>
+        <a href="https://ti.to/jsconf-bp/jsconfbp2015" class="buy-button" target="_blank">Buy ticket</a>
+    </div>
+    <div class="ticket diversity-ticket">
+        <h3>Diversity Supporter Ticket</h3>
+        <p><strong>€200 + €100 + VAT + Fees = €400</strong></p>
+        <a href="https://ti.to/jsconf-bp/jsconfbp2015" class="buy-button" target="_blank">Buy ticket</a>
+    </div>
+</div>
 
 # News
 
@@ -76,7 +90,10 @@ title: ''
     <div class="item">
         <h4>Karolina Szczur</h4>
         <p>
-            <a href="https://twitter.com/fox">@fox</a> <br />
+            <a class="twitter" href="https://twitter.com/fox">@fox</a>
+            <br />
+            <a class="company" href="https://andyet.com/">&yet</a>
+            <br />
             Master of Ceremony
         </p>
         <span class="image"><img src="/images/speaker-karolina.jpg" /></span>
@@ -86,49 +103,81 @@ title: ''
 <ul class="speakers">
     <li>
         <h4>James Halliday</h4>
-        <p><a href="https://twitter.com/substack" target="_blank">@substack</a></p>
+        <p>
+            <a class="twitter" href="https://twitter.com/substack" target="_blank">@substack</a>
+            <br />
+            <a class="company" href="http://browserify.org/">Browserify</a>
+        </p>
         <span class="image"><img src="/images/speaker-substack.jpeg" /></span>
     </li>
 
     <li>
         <h4>Fedor Indutny</h4>
-        <p><a href="https://twitter.com/indutny" target="_blank">@indutny</a></p>
+        <p>
+            <a class="twitter" href="https://twitter.com/indutny" target="_blank">@indutny</a>
+            <br />
+            <a class="company" href="https://iojs.org/en/index.html">io.js</a>
+        </p>
         <span class="image"><img src="/images/speaker-fedor.png" /></span>
     </li>
 
     <li>
         <h4>Soledad Penadés</h4>
-        <p><a href="https://twitter.com/supersole" target="_blank" >@supersole</a></p>
+        <p>
+            <a class="twitter" href="https://twitter.com/supersole" target="_blank" >@supersole</a>
+            <br />
+            <a class="company" href="https://www.mozilla.org/">Mozilla</a>
+        </p>
         <span class="image"><img src="/images/speaker-supersole.png" /></span>
     </li>
 
     <li>
         <h4>André Staltz</h4>
-        <p><a href="https://twitter.com/andrestaltz" target="_blank">@andrestaltz</a></p>
+        <p>
+            <a class="twitter" href="https://twitter.com/andrestaltz" target="_blank">@andrestaltz</a>
+            <br />
+            <a class="company" href="http://futurice.com/">Futurice</a>
+        </p>
         <span class="image"><img src="/images/speaker-andre.jpeg" /></span>
     </li>
 
     <li>
         <h4>Mikael Brevik</h4>
-        <p><a href="https://twitter.com/mikaelbrevik" target="_blank">@mikaelbrevik</a></p>
+        <p>
+            <a class="twitter" href="https://twitter.com/mikaelbrevik" target="_blank">@mikaelbrevik</a>
+            <br />
+            <a class="company" href="http://www.bekk.no">Bekk Consulting</a>
+        </p>
         <span class="image"><img src="/images/speaker-brevik.png" /></span>
     </li>
 
     <li>
         <h4>Martin Kleppe</h4>
-        <p><a href="https://twitter.com/aemkei" target="_blank">@aemkei</a></p>
+        <p>
+            <a class="twitter" href="https://twitter.com/aemkei" target="_blank">@aemkei</a>
+            <br />
+            <a class="company" href="http://www.ubilabs.net/">Ubilabs</a>
+        </p>
         <span class="image"><img src="/images/speaker-martin-kleppe.jpg" /></span>
     </li>
 
     <li>
         <h4>Jaume Sanchez<br />Elias</h4>
-        <p><a href="https://twitter.com/thespite" target="_blank">@thespite</a></p>
+        <p>
+            <a class="twitter" href="https://twitter.com/thespite" target="_blank">@thespite</a>
+            <br />
+            <a class="company" href="http://www.b-reel.com/">B-reel</a>
+        </p>
         <span class="image"><img src="/images/speaker-thespite.png" /></span>
     </li>
 
     <li>
         <h4>Pascal Precht</h4>
-        <p><a href="https://twitter.com/pascalprecht" target="_blank">@pascalprecht</a></p>
+        <p>
+            <a class="twitter" href="https://twitter.com/pascalprecht" target="_blank">@pascalprecht</a>
+            <br />
+            <a class="company" href="http://thoughtram.io/">Thoughtram</a>
+        </p>
         <span class="image"><img src="/images/speaker-pascal.jpeg" /></span>
     </li>
 
@@ -191,3 +240,26 @@ and Strech Conference, because of the unique atmosphere.
     We're currently looking for sponsors, who help us make this conference experience awesome.
     [Contact us](mailto:team@jsconfbp.com) if you're interested in sponsorship opportunities.
 </p>
+
+<div id="sponsorlist">
+
+    <a href="https://www.mozilla.org/">
+        <img src="/images/mozilla.png" class="tier3" />
+    </a>
+
+    <a href="http://futurice.com/">
+        <img src="/images/futurice.png" class="tier3" />
+    </a>
+
+    <a href="http://ustream.tv/">
+        <img src="/images/ustream.png" class="tier3" />
+    </a>
+
+    <h4>Organized by</h4>
+
+    <a href="http://risingstack.com/">
+        <img src="/images/risingstack.png" class="tier3" />
+    </a>
+
+
+</div>

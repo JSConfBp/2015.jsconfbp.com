@@ -491,14 +491,23 @@ a {
 
       h4 {
         text-align: left;
-        margin-bottom: 6px;
-        margin-top: 28px;
+        margin-bottom: 3px;
+        margin-top: 14px;
         line-height: 24px;
       }
 
       p {
         width: auto;
-        line-height: 22px;
+        line-height: 28px;
+      }
+
+      a.twitter {
+        font-size: 16px;
+      }
+
+      a.company {
+        font-weight: bold;
+        color: $red;
       }
 
       .image {
@@ -549,10 +558,93 @@ a {
       }
       p {
         padding: 0;
-        line-height: 30px;
+        line-height: 33px;
       }
     }
   }
+
+
+
+  #buytickets {
+    margin: 20px auto 10px;
+    width: 800px;
+
+    .ticket {
+      width: 45%;
+      display: inline-block;
+      box-sizing: border-box;
+      padding: 0 10px;
+
+
+      h3,p {
+        text-align: center;
+        padding-top: 0
+      }
+
+      .buy-button {
+
+        color: #fff;
+        text-transform: uppercase;
+        border-radius: 5px;
+
+        padding: 20px;
+        display: block;
+
+        font-weight: 900;
+
+        transition: background .2s ease-out;
+
+        &:hover {
+          text-decoration: none !important;
+
+        }
+      }
+
+    }
+
+    .regular {
+      .buy-button {
+        background: $red;
+
+        &:hover {
+          background: lighten($red, 10%);
+        }
+      }
+    }
+
+    .diversity-ticket {
+      .buy-button {
+        background: $blue;
+
+        &:hover {
+          background: lighten($blue, 10%);
+        }
+      }
+    }
+
+  }
+
+
+  #sponsorlist {
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 20px;
+
+    h4 {
+      text-align: center;
+      float: none;
+      clear: both;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    .tier1 { width: 400px; }
+    .tier2 { width: 300px; }
+    .tier3 { width: 200px; }
+
+  }
+
 }
 
 #footer {
@@ -572,24 +664,10 @@ a {
   }
 }
 
-#BuyButton {
-  margin: 20px auto 10px;
-  color: #fff;
-  text-transform: uppercase;
-  border-radius: 5px;
-  background: $red;
-  padding: 20px;
-  display: block;
-  width: 300px;
-  font-weight: 900;
 
-  transition: background .2s ease-out;
 
-  &:hover {
-    text-decoration: none !important;
-    background: lighten($red, 10%);
-  }
-}
+
+
 
 @media (max-width: 1200px) {
   #header {
@@ -689,6 +767,29 @@ a {
     iframe {
       width: 100%;
     }
+
+    #buytickets {
+      width: auto;
+      margin-top: 0;
+      margin-bottom: 0;
+
+      .ticket {
+        width: 80%;
+        display: block;
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 60px;
+      }
+
+      .ticket::last-child {
+        margin-bottom: 0px;
+      }
+    }
+
+    #sponsorlist {
+      width: auto;
+    }
+
   }
 
   #content .decoration.venue img {
@@ -757,11 +858,6 @@ a {
         top: 0px;
       }
     }
-  }
-
-  #BuyButton {
-    width: 80%;
-    box-sizing: border-box;
   }
 }
 
