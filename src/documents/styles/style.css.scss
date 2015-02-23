@@ -670,6 +670,18 @@ a {
 
 
 
+@media (min-width: 1400px) {
+  #content .decoration.venue {
+    height: 600px;
+
+    img {
+      top: auto;
+      bottom: -25%;
+    }
+  }
+}
+
+
 @media (max-width: 1200px) {
   #header {
     .bg-layer {
@@ -760,7 +772,7 @@ a {
       padding-left: 40px;
 
       p {
-        padding: 0;
+        padding: 0 10px;
       }
 
     }
@@ -838,8 +850,9 @@ a {
     .decoration {
       height: 200px;
 
-      img {
-        top: -10%;
+      img,
+      img.parlament {
+        top: 0;
       }
 
       img.airport {

@@ -20,7 +20,7 @@ Budapest was recently listed within the top 6 cities in Europe, best suited for 
 ## Three quick trips through Budapest
 
 <div class="decoration">
-	<img src="https://c1.staticflickr.com/5/4050/4470243376_9777a6a76d_b.jpg" alt="Photo by Zsolt Andrasi on Flickr" class="heroes" />
+	<img src="/images/heroes-square.jpg" alt="Photo by Zsolt Andrasi on Flickr" class="heroes" />
 	<span class="credit"><a href="https://www.flickr.com/photos/azso/4470243376">Photo by Zsolt Andrasi on Flickr</a> <a href="https://creativecommons.org/licenses/by/2.0/">Some rights reserved</a></span>
 </div>
 
@@ -31,7 +31,7 @@ Andrássy Avenue is the new shopping street where you can find the Opera house, 
 [Open in Google Maps](https://goo.gl/maps/rY6VJ)
 
 <div class="decoration">
-	<img src="https://c2.staticflickr.com/2/1419/1487662867_dbe782b04c_b.jpg" alt="Photo by Alexandre Duarte on Flickr" class="castle" />
+	<img src="/images/budapest-night.jpg" alt="Photo by Alexandre Duarte on Flickr" class="castle" />
 	<span class="credit"><a href="https://www.flickr.com/photos/alexandrend/1487662867">Photo by Alexandre Duarte on Flickr</a> <a href="https://creativecommons.org/licenses/by/2.0/">Some rights reserved</a></span>
 </div>
 
@@ -42,7 +42,7 @@ Walk down to Basilica. Right next to it you can try some nice Hungarian wines at
 [Open in Google Maps](https://goo.gl/maps/loi26)
 
 <div class="decoration">
-	<img src="https://c1.staticflickr.com/5/4133/4990718547_0826cb6acb_b.jpg" alt="Photo by Felix Montino on Flickr" class="parlament" />
+	<img src="/images/parlament.jpg" alt="Photo by Felix Montino on Flickr" class="parlament" />
 	<span class="credit"><a href="https://www.flickr.com/photos/felixmontino/4990718547">Photo by Felix Montino on Flickr</a> <a href="https://creativecommons.org/licenses/by/2.0/">Some rights reserved</a></span>
 </div>
 
