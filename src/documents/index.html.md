@@ -182,14 +182,22 @@ title: ''
     </li>
 
     <li>
-        <h4>Coming Soon</h4>
-
-        <span class="image"><img src="/images/speaker.png" /></span>
+        <h4>Sebastiano Armeli</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/sebarmeli" target="_blank">@sebarmeli</a>
+            <br />
+            <a class="company" target="_blank" href="https://www.spotify.com/">Spotify</a>
+        </p>
+        <span class="image"><img src="/images/speaker-sebastiano.jpeg" /></span>
     </li>
     <li>
-        <h4>Coming Soon</h4>
-
-        <span class="image"><img src="/images/speaker.png" /></span>
+        <h4>Sufian Rhazi</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/sufianrhazi" target="_blank">@sufianrhazi</a>
+            <br />
+            <a class="company" target="_blank" href="https://www.etsy.com/">Etsy</a>
+        </p>
+        <span class="image"><img src="/images/speaker-sufian.jpeg" /></span>
     </li>
     <li>
         <h4>Coming Soon</h4>
@@ -242,6 +250,10 @@ and Strech Conference, because of the unique atmosphere.
 </p>
 
 <div id="sponsorlist">
+
+    <a href="https://www.etsy.com/">
+        <img src="/images/etsy.png" class="tier3" />
+    </a>
 
     <a href="https://www.mozilla.org/">
         <img src="/images/mozilla.png" class="tier3" />
