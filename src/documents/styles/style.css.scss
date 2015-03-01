@@ -470,13 +470,15 @@ a {
 
   .organizers,
   .speaker,
-  .speakers {
+  .speakers,
+  .topic {
     width: 100%;
     max-width: 1280px;
     display: block;
     list-style: none;
     clear:both;
     margin: 0 auto;
+    position: relative;
 
     .item,
     li {
@@ -511,24 +513,27 @@ a {
         font-size: 18px;
       }
 
-      .image {
-        position: absolute;
+
+    }
+
+    .image {
+      position: absolute;
+      width: 114px;
+      height: 114px;
+      left: 0;
+      top: 0;
+
+      img {
+        border: 3px solid $yellow;
+        transition: transform .1s ease-out;
         width: 114px;
-        height: 114px;
-        left: 0;
-        top: 0;
-
-        img {
-          border: 3px solid $yellow;
-          transition: transform .1s ease-out;
-          width: 114px;
-          border-radius: 100%;
-        }
+        border-radius: 100%;
       }
+    }
 
-      &:hover .image img {
-        transform: scale(1.05);
-      }
+
+    &:hover .image img {
+      transform: scale(1.05);
     }
 
     :after {
@@ -537,6 +542,30 @@ a {
       width: 100%;
       clear: both;
     }
+  }
+
+
+  .topic {
+    width: 660px;
+    margin: 0 auto;
+    padding-left: 140px;
+    margin-bottom: 60px;
+
+    .meta {
+      margin-bottom: 4px;
+
+      h4 {
+        margin-bottom: 6px;
+        line-height: 26px;
+      }
+
+      p {
+        padding-top: 0;
+        font-size: 16px;
+        line-height:28px;
+      }
+    }
+
   }
 
   .master-of-ceremony {
@@ -803,6 +832,21 @@ a {
       width: auto;
     }
 
+    .topic {
+      width: auto;
+      padding: 0 10px;
+
+      .meta {
+        min-height: 120px;
+        padding-left: 140px;
+      }
+
+      .image {
+        left: 20px;
+        top: -20px;
+      }
+    }
+
   }
 
   #content .decoration.venue img {
@@ -822,6 +866,8 @@ a {
   #content .decoration img.heroes {
     bottom: -10%;
   }
+
+
 }
 
 
