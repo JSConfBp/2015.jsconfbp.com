@@ -115,7 +115,7 @@ title: ''
     </h3>
     <p>
         The JavaScript world has seen stunning demos in 1024 bytes, crazy hacks in 140 characters and esoteric sequences of only 6 different symbols.
-        This talk will push the limits even further and reveal, how to write ""Invisible Code"": Hidden programs that will execute with mind-bending magic.
+        This talk will push the limits even further and reveal, how to write "Invisible Code": Hidden programs that will execute with mind-bending magic.
     </p>
 </div>
 
