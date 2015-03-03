@@ -123,6 +123,27 @@ title: ''
 <div class="topic">
     <div class="meta">
         <h4>
+            André Staltz
+        </h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/andrestaltz" target="_blank">@andrestaltz</a>
+            <br />
+            <a class="company" target="_blank" href="http://futurice.com/">Futurice</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-andre.jpeg" /></span>
+
+    <h3>
+        What if the user was a function?
+    </h3>
+    <p>
+        Exploring MV*, user interfaces, unidirectional dataflow, reactive and functional programming
+    </p>
+</div>
+
+<div class="topic">
+    <div class="meta">
+        <h4>
             Jaume Sanchez Elias
         </h4>
         <p>
@@ -140,6 +161,30 @@ title: ''
     </p>
 </div>
 
+
+<div class="topic">
+    <div class="meta">
+        <h4>
+            Mikael Brevik
+        </h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/mikaelbrevik" target="_blank">@mikaelbrevik</a>
+            <br />
+            <a class="company" target="_blank" href="http://www.bekk.no">Bekk Consulting</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-brevik.png" /></span>
+
+    <h3>
+Functional UIs and Unidirectional Dataflow
+    </h3>
+    <p>
+        Let us bring back the days where we could write declarative representations of how we want our UI components to work. We should be able to read our code from top to bottom and intuitively know what the output will be, just like the good old HTML, but with the power of functional programming.
+    </p>
+    <p>
+        In this talk we'll explore bringing functional programming into views. Instead of moving logic to markup through weird DSLs we bring expressive views into the programming language. We'll see how to create a UI where we have composable, pure and referentially transparent components; components with no side-effects and predictable output. We couple this with immutable data and components with single responsibilities, and we can get a fast and smart way to build UIs with a unidirectional flow and a simpler static mental model.
+    </p>
+</div>
 
 <ul class="speakers">
     <li>
@@ -172,25 +217,6 @@ title: ''
         <span class="image"><img src="/images/speaker-supersole.png" /></span>
     </li>
 
-    <li>
-        <h4>André Staltz</h4>
-        <p>
-            <a class="twitter" href="https://twitter.com/andrestaltz" target="_blank">@andrestaltz</a>
-            <br />
-            <a class="company" target="_blank" href="http://futurice.com/">Futurice</a>
-        </p>
-        <span class="image"><img src="/images/speaker-andre.jpeg" /></span>
-    </li>
-
-    <li>
-        <h4>Mikael Brevik</h4>
-        <p>
-            <a class="twitter" href="https://twitter.com/mikaelbrevik" target="_blank">@mikaelbrevik</a>
-            <br />
-            <a class="company" target="_blank" href="http://www.bekk.no">Bekk Consulting</a>
-        </p>
-        <span class="image"><img src="/images/speaker-brevik.png" /></span>
-    </li>
 
     <li>
         <h4>Pascal Precht</h4>
