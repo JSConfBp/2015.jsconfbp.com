@@ -186,6 +186,30 @@ Functional UIs and Unidirectional Dataflow
     </p>
 </div>
 
+<div class="topic">
+    <div class="meta">
+            <h4>
+                Sebastiano Armeli
+            </h4>
+            <p>
+                <a class="twitter" href="https://twitter.com/sebarmeli" target="_blank">@sebarmeli</a>
+                <br />
+                <a class="company" target="_blank" href="https://www.spotify.com/">Spotify</a>
+            </p>
+    </div>
+    <span class="image"><img src="/images/speaker-sebastiano.jpeg" /></span>
+
+    <h3>
+        Enforcing coding standards in a JS library
+    </h3>
+    <p>
+        This talk is around enforcing coding standards in your JS project. We’ll discuss, as a use case, one of the libraries we use at Spotify in order to show the importance of keeping standards in your codebase.
+    </p>
+    <p>
+        In this session we’ll cover a few tools and practices you might want to follow when you build a JS library.
+    </p>
+</div>
+
 <ul class="speakers">
     <li>
         <h4>James Halliday</h4>
@@ -228,15 +252,6 @@ Functional UIs and Unidirectional Dataflow
         <span class="image"><img src="/images/speaker-pascal.jpeg" /></span>
     </li>
 
-    <li>
-        <h4>Sebastiano Armeli</h4>
-        <p>
-            <a class="twitter" href="https://twitter.com/sebarmeli" target="_blank">@sebarmeli</a>
-            <br />
-            <a class="company" target="_blank" href="https://www.spotify.com/">Spotify</a>
-        </p>
-        <span class="image"><img src="/images/speaker-sebastiano.jpeg" /></span>
-    </li>
     <li>
         <h4>Sufian Rhazi</h4>
         <p>
