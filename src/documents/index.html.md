@@ -339,6 +339,9 @@ and Strech Conference, because of the unique atmosphere.
 
 <div id="sponsorlist">
 
+    <a href="https://www.spotify.com">
+        <img src="/images/spotify.png" class="tier3" />
+    </a>
     <a href="https://www.etsy.com/">
         <img src="/images/etsy.png" class="tier3" />
     </a>
