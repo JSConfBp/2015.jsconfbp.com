@@ -233,6 +233,28 @@ Functional UIs and Unidirectional Dataflow
 
 </div>
 
+<div class="topic">
+    <div class="meta">
+        <h4>Soledad Penadés</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/supersole" target="_blank" >@supersole</a>
+            <br />
+            <a class="company" target="_blank" href="https://www.mozilla.org/">Mozilla</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-supersole.png" /></span>
+
+    <h3>
+        The disconnected ensemble: scattered clouds, underground.
+    </h3>
+    <p>
+        Leave the routers and repeaters, the cabling and the splitters all behind.
+        Just bring those phones, and let's go underground.
+        Let's sit on a train and play music, left to our own devices, with our own devices.
+    </p>
+
+</div>
+
 <ul class="speakers">
 
     <li>
@@ -244,17 +266,6 @@ Functional UIs and Unidirectional Dataflow
         </p>
         <span class="image"><img src="/images/speaker-fedor.png" /></span>
     </li>
-
-    <li>
-        <h4>Soledad Penadés</h4>
-        <p>
-            <a class="twitter" href="https://twitter.com/supersole" target="_blank" >@supersole</a>
-            <br />
-            <a class="company" target="_blank" href="https://www.mozilla.org/">Mozilla</a>
-        </p>
-        <span class="image"><img src="/images/speaker-supersole.png" /></span>
-    </li>
-
 
     <li>
         <h4>Pascal Precht</h4>
