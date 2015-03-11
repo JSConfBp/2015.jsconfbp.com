@@ -279,17 +279,28 @@ Functional UIs and Unidirectional Dataflow
 
 </div>
 
-<ul class="speakers">
+<div class="topic">
+    <div class="meta">
 
-    <li>
         <h4>Fedor Indutny</h4>
         <p>
             <a class="twitter" href="https://twitter.com/indutny" target="_blank">@indutny</a>
             <br />
             <a class="company" target="_blank" href="https://iojs.org/en/index.html">io.js</a>
         </p>
-        <span class="image"><img src="/images/speaker-fedor.png" /></span>
-    </li>
+    </div>
+    <span class="image"><img src="/images/speaker-fedor.png" /></span>
+
+    <h3>
+        Diving into io.js C++ internals
+    </h3>
+    <p>
+         Exploring the code and file structure of the internal C++ core bindings of io.js
+    </p>
+
+</div>
+
+<ul class="speakers">
 
     <li>
         <h4>Pascal Precht</h4>
