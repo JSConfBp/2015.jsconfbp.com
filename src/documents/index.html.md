@@ -300,58 +300,55 @@ Functional UIs and Unidirectional Dataflow
 
 </div>
 
-<ul class="speakers">
-
-    <li>
+<div class="topic">
+    <div class="meta">
         <h4>Pascal Precht</h4>
         <p>
             <a class="twitter" href="https://twitter.com/pascalprecht" target="_blank">@pascalprecht</a>
             <br />
             <a class="company" target="_blank" href="http://thoughtram.io/">Thoughtram</a>
         </p>
-        <span class="image"><img src="/images/speaker-pascal.jpeg" /></span>
-    </li>
+    </div>
+    <span class="image"><img src="/images/speaker-pascal.jpeg" /></span>
+
+    <h3>
+        Dependency Injection for Future Generations
+    </h3>
+    <p>
+        Because dependency injection is cool and that it makes life of all us developers a looot easier,
+        we start off this talk by first understanding what dependency injection stands for and why it is
+        such a blessing in disguise...and also because first things first. Once that is clear we can dive
+        deeper into some existing implementations, to get a real feel of how it all works,
+        and finish by looking at how these implementations are used inside the new Angular 2,
+        by embracing the power of TypeScript annotations.
+    </p>
+
+</div>
+
+<ul class="speakers">
 
     <li>
-        <h4>Could be you!</h4>
-        <p>
-            <a class="company" target="_blank" href="/call-for-presentations.html">Send us your talk!</a>
-        </p>
+        <h4>Coming soon!</h4>
         <span class="image"><img src="/images/speaker.png" /></span>
     </li>
     <li>
-        <h4>Could be you!</h4>
-        <p>
-            <a class="company" target="_blank" href="/call-for-presentations.html">Send us your talk!</a>
-        </p>
+        <h4>Coming soon!</h4>
         <span class="image"><img src="/images/speaker.png" /></span>
     </li>
     <li>
-        <h4>Could be you!</h4>
-        <p>
-            <a class="company" target="_blank" href="/call-for-presentations.html">Send us your talk!</a>
-        </p>
+        <h4>Coming soon!</h4>
         <span class="image"><img src="/images/speaker.png" /></span>
     </li>
     <li>
-        <h4>Could be you!</h4>
-        <p>
-            <a class="company" target="_blank" href="/call-for-presentations.html">Send us your talk!</a>
-        </p>
+        <h4>Coming soon!</h4>
         <span class="image"><img src="/images/speaker.png" /></span>
     </li>
     <li>
-        <h4>Could be you!</h4>
-        <p>
-            <a class="company" target="_blank" href="/call-for-presentations.html">Send us your talk!</a>
-        </p>
+        <h4>Coming soon!</h4>
         <span class="image"><img src="/images/speaker.png" /></span>
     </li>
     <li>
-        <h4>Could be you!</h4>
-        <p>
-            <a class="company" target="_blank" href="/call-for-presentations.html">Send us your talk!</a>
-        </p>
+        <h4>Coming soon!</h4>
         <span class="image"><img src="/images/speaker.png" /></span>
     </li>
 </ul>
