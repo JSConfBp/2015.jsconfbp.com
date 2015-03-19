@@ -325,16 +325,58 @@ Functional UIs and Unidirectional Dataflow
 
 </div>
 
+<div class="topic">
+    <div class="meta">
+        <h4>Anika Lindtner</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/langziehohr" target="_blank">@langziehohr</a>
+            <br />
+            <a class="company" target="_blank" href="https://travis-ci.org">Travis CI</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-anika.jpg" /></span>
+
+    <h3>
+        How you can fix your community in one day
+    </h3>
+    <p>
+        This talk will teach you a magic trick.
+    </p>
+    <p>
+        It will show you to stop our communities from breaking apart. Studies have shown that half the women who enter the technology field will over time leave. HALF! What’s happening? How did we get here? What can we do?
+    </p>
+    <p>
+        In my talk I will show you how we can fix the diversity problem, and why we should care. I'll tell you a true story about about role models, broken stereotypes - and cat gifs.
+    </p>
+    <p>
+        How to build community-driven initiatives that change our world. And the best part is: Everyone can do it. In one day.
+    </p>
+
+</div>
+
+<div class="topic">
+    <div class="meta">
+        <h4>Julian Cheal</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/juliancheal" target="_blank">@juliancheal</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-juliancheal.jpg" /></span>
+
+    <h3>
+        Dancing with Robots
+    </h3>
+    <p>
+        Web apps are great and everything, but imagine using JS to fly drones and make them dance to the sounds of dubstep!
+        Or to control disco lights and other robots! Sounds fun, right? In this talk, we will not only explore
+        how we can write code to make this possible, but it will also be full of exciting, interactive (and possibly dangerous ;) ) demos!
+    </p>
+
+</div>
+
 <ul class="speakers">
 
-    <li>
-        <h4>Coming soon!</h4>
-        <span class="image"><img src="/images/speaker.png" /></span>
-    </li>
-    <li>
-        <h4>Coming soon!</h4>
-        <span class="image"><img src="/images/speaker.png" /></span>
-    </li>
+
     <li>
         <h4>Coming soon!</h4>
         <span class="image"><img src="/images/speaker.png" /></span>
@@ -373,9 +415,18 @@ and Strech Conference, because of the unique atmosphere.
 
 <div id="sponsorlist">
 
+    <a href="https://travis-ci.org">
+        <img src="/images/travis-ci.png" class="tier3" />
+    </a>
+
+    <a href="http://www.toptal.com/">
+        <img src="/images/toptal.png" class="tier3" />
+    </a>
+
     <a href="https://www.spotify.com">
         <img src="/images/spotify.png" class="tier3" />
     </a>
+
     <a href="https://www.etsy.com/">
         <img src="/images/etsy.png" class="tier3" />
     </a>
