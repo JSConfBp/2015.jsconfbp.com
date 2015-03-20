@@ -121,8 +121,8 @@ title: ''
     </p>
 
     <p>
-        In this talk, we'll discuss the emerging support from Google & Mozilla for WebVR, a new API emerging to support
-        writing VR-enabled websites using HTML, CSS, and JavaScript. We'll be taking a look at existing applications
+        In this talk, we'll discuss the emerging support from the VR and web communities for WebVR, a new API emerging
+        to support writing VR-enabled websites using HTML, CSS, and JavaScript. We'll be taking a look at existing applications
         for virtual reality on the web, the benefits of WebVR, and how to get started with the available tools and
         libraries for browser-based virtual reality written in JavaScript.
     </p>
