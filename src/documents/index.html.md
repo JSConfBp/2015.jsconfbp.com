@@ -100,6 +100,36 @@ title: ''
     </div>
 </div>
 
+
+<div class="topic">
+    <div class="meta">
+        <h4>Liv Erickson</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/misslivirose" target="_blank">@misslivirose</a>
+            <br />
+            <a class="company" target="_blank" href="http://www.microsoft.com/">Microsoft</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-liv.png" /></span>
+
+    <h3>
+        JavaScript for Virtual Reality
+    </h3>
+    <p>
+        Is 2015 the year of Virtual Reality? Experts suggest that VR will be a 5.2B industry within the next 2 years -
+        but right now, the majority of VR development tools require heavy game engines and specialized desktops.
+    </p>
+
+    <p>
+        In this talk, we'll discuss the emerging support from Google & Mozilla for WebVR, a new API emerging to support
+        writing VR-enabled websites using HTML, CSS, and JavaScript. We'll be taking a look at existing applications
+        for virtual reality on the web, the benefits of WebVR, and how to get started with the available tools and
+        libraries for browser-based virtual reality written in JavaScript.
+    </p>
+
+</div>
+
+
 <div class="topic">
     <div class="meta">
         <h4>Phil Nash</h4>
