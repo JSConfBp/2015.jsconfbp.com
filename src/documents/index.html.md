@@ -157,8 +157,6 @@ title: ''
 
 </div>
 
-
-
 <div class="topic">
     <div class="meta">
         <h4>Julian Cheal</h4>
@@ -178,9 +176,6 @@ title: ''
     </p>
 
 </div>
-
-
-
 
 <div class="topic">
     <div class="meta">
@@ -211,33 +206,11 @@ title: ''
 
 </div>
 
-<div class="topic">
-    <div class="meta">
-        <h4>Julian Cheal</h4>
-        <p>
-            <a class="twitter" href="https://twitter.com/juliancheal" target="_blank">@juliancheal</a>
-        </p>
-    </div>
-    <span class="image"><img src="/images/speaker-juliancheal.jpg" /></span>
-
-    <h3>
-        Dancing with Robots
-    </h3>
-    <p>
-        Web apps are great and everything, but imagine using JS to fly drones and make them dance to the sounds of dubstep!
-        Or to control disco lights and other robots! Sounds fun, right? In this talk, we will not only explore
-        how we can write code to make this possible, but it will also be full of exciting, interactive (and possibly dangerous ;) ) demos!
-    </p>
-
-</div>
-
 
 <div class="topic">
     <div class="meta">
         <h4>Martin Kleppe</h4>
         <p>
-
-
             <a class="twitter" href="https://twitter.com/aemkei" target="_blank">@aemkei</a>
             <br />
             <a class="company" target="_blank" href="http://www.ubilabs.net/">Ubilabs</a>
@@ -461,12 +434,6 @@ title: ''
 
 
 <ul class="speakers">
-
-
-    <li>
-        <h4>Coming soon!</h4>
-        <span class="image"><img src="/images/speaker.png" /></span>
-    </li>
     <li>
         <h4>Coming soon!</h4>
         <span class="image"><img src="/images/speaker.png" /></span>
