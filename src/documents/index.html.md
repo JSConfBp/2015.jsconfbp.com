@@ -102,8 +102,142 @@ title: ''
 
 <div class="topic">
     <div class="meta">
+        <h4>Phil Nash</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/philnash" target="_blank">@philnash</a>
+            <br />
+            <a class="company" target="_blank" href="https://www.twilio.com/">Twilio</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-philnash.jpg" /></span>
+
+    <h3>
+        The web is getting pushy
+    </h3>
+    <p>
+        The battle between native and web rages on. The browsers are fighting hard to tear down the benefits that native
+        developers have relied on since the inception of mobile platforms. Geolocation, sorted. Accelerometer, done.
+        Performance, we'll come back to that. But one of the greatest draws for native developers has been push notifications,
+        for the web,<br /> email alerts just don't cut it.
+    </p>
+
+    <p>
+        But now, new in browsers for 2015, is the Service Worker. Born out of the struggle to make the Appcache work
+        for offline capable sites it has also brought the advent of push notifications to the web. Through building
+        up an example application live we will see how to implement the Service Worker to not only serve up an app when
+        we're offline but enhance the online experience with push notifications.
+    </p>
+
+    <p>
+        The battle may continue, but the web is definitely pushing back.
+    </p>
+
+</div>
+
+<div class="topic">
+    <div class="meta">
+        <h4>Stephan Bönnemann</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/boennemann" target="_blank">@boennemann</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-stephan.jpeg" /></span>
+
+    <h3>
+        We fail to follow SemVer – and why it needn’t matter
+    </h3>
+    <p>
+        If extensive libraries and even the tiniest module followed SemVer strictly, dependency hell would be a thing of the past … but humans weren’t made to follow rules.
+    </p>
+
+    <p>
+        There are over 125.000 packages on npm today. By the time of this conference, at least another 10.000 will have been added. Using the right packages in your own modules and applications makes JavaScript the joy to develop it is today. But if even immensely popular libraries fail to properly declare breaking changes, how can we trust the over 50.000 strangers who developed all these modules?
+        Currently we can’t. Let me show you how to write confidence-inspiring modules by leaving package publishing up to the machines – instead of buggy humans.
+    </p>
+
+</div>
+
+
+
+<div class="topic">
+    <div class="meta">
+        <h4>Julian Cheal</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/juliancheal" target="_blank">@juliancheal</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-juliancheal.jpg" /></span>
+
+    <h3>
+        Dancing with Robots
+    </h3>
+    <p>
+        Web apps are great and everything, but imagine using JS to fly drones and make them dance to the sounds of dubstep!
+        Or to control disco lights and other robots! Sounds fun, right? In this talk, we will not only explore
+        how we can write code to make this possible, but it will also be full of exciting, interactive (and possibly dangerous ;) ) demos!
+    </p>
+
+</div>
+
+
+
+
+<div class="topic">
+    <div class="meta">
+        <h4>Anika Lindtner</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/langziehohr" target="_blank">@langziehohr</a>
+            <br />
+            <a class="company" target="_blank" href="https://travis-ci.org">Travis CI</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-anika.jpg" /></span>
+
+    <h3>
+        How you can fix your community in one day
+    </h3>
+    <p>
+        This talk will teach you a magic trick.
+    </p>
+    <p>
+        It will show you to stop our communities from breaking apart. Studies have shown that half the women who enter the technology field will over time leave. HALF! What’s happening? How did we get here? What can we do?
+    </p>
+    <p>
+        In my talk I will show you how we can fix the diversity problem, and why we should care. I'll tell you a true story about about role models, broken stereotypes - and cat gifs.
+    </p>
+    <p>
+        How to build community-driven initiatives that change our world. And the best part is: Everyone can do it. In one day.
+    </p>
+
+</div>
+
+<div class="topic">
+    <div class="meta">
+        <h4>Julian Cheal</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/juliancheal" target="_blank">@juliancheal</a>
+        </p>
+    </div>
+    <span class="image"><img src="/images/speaker-juliancheal.jpg" /></span>
+
+    <h3>
+        Dancing with Robots
+    </h3>
+    <p>
+        Web apps are great and everything, but imagine using JS to fly drones and make them dance to the sounds of dubstep!
+        Or to control disco lights and other robots! Sounds fun, right? In this talk, we will not only explore
+        how we can write code to make this possible, but it will also be full of exciting, interactive (and possibly dangerous ;) ) demos!
+    </p>
+
+</div>
+
+
+<div class="topic">
+    <div class="meta">
         <h4>Martin Kleppe</h4>
         <p>
+
+
             <a class="twitter" href="https://twitter.com/aemkei" target="_blank">@aemkei</a>
             <br />
             <a class="company" target="_blank" href="http://www.ubilabs.net/">Ubilabs</a>
@@ -176,7 +310,7 @@ title: ''
     <span class="image"><img src="/images/speaker-brevik.png" /></span>
 
     <h3>
-Functional UIs and Unidirectional Dataflow
+        Functional UIs and Unidirectional Dataflow
     </h3>
     <p>
         Let us bring back the days where we could write declarative representations of how we want our UI components to work. We should be able to read our code from top to bottom and intuitively know what the output will be, just like the good old HTML, but with the power of functional programming.
@@ -188,14 +322,14 @@ Functional UIs and Unidirectional Dataflow
 
 <div class="topic">
     <div class="meta">
-            <h4>
-                Sebastiano Armeli
-            </h4>
-            <p>
-                <a class="twitter" href="https://twitter.com/sebarmeli" target="_blank">@sebarmeli</a>
-                <br />
-                <a class="company" target="_blank" href="https://www.spotify.com/">Spotify</a>
-            </p>
+        <h4>
+            Sebastiano Armeli
+        </h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/sebarmeli" target="_blank">@sebarmeli</a>
+            <br />
+            <a class="company" target="_blank" href="https://www.spotify.com/">Spotify</a>
+        </p>
     </div>
     <span class="image"><img src="/images/speaker-sebastiano.jpeg" /></span>
 
@@ -212,12 +346,12 @@ Functional UIs and Unidirectional Dataflow
 
 <div class="topic">
     <div class="meta">
-            <h4>James Halliday</h4>
-            <p>
-                <a class="twitter" href="https://twitter.com/substack" target="_blank">@substack</a>
-                <br />
-                <a class="company" target="_blank" href="http://browserify.org/">Browserify</a>
-            </p>
+        <h4>James Halliday</h4>
+        <p>
+            <a class="twitter" href="https://twitter.com/substack" target="_blank">@substack</a>
+            <br />
+            <a class="company" target="_blank" href="http://browserify.org/">Browserify</a>
+        </p>
     </div>
     <span class="image"><img src="/images/speaker-substack.jpeg" /></span>
 
@@ -325,78 +459,6 @@ Functional UIs and Unidirectional Dataflow
 
 </div>
 
-<div class="topic">
-    <div class="meta">
-        <h4>Anika Lindtner</h4>
-        <p>
-            <a class="twitter" href="https://twitter.com/langziehohr" target="_blank">@langziehohr</a>
-            <br />
-            <a class="company" target="_blank" href="https://travis-ci.org">Travis CI</a>
-        </p>
-    </div>
-    <span class="image"><img src="/images/speaker-anika.jpg" /></span>
-
-    <h3>
-        How you can fix your community in one day
-    </h3>
-    <p>
-        This talk will teach you a magic trick.
-    </p>
-    <p>
-        It will show you to stop our communities from breaking apart. Studies have shown that half the women who enter the technology field will over time leave. HALF! What’s happening? How did we get here? What can we do?
-    </p>
-    <p>
-        In my talk I will show you how we can fix the diversity problem, and why we should care. I'll tell you a true story about about role models, broken stereotypes - and cat gifs.
-    </p>
-    <p>
-        How to build community-driven initiatives that change our world. And the best part is: Everyone can do it. In one day.
-    </p>
-
-</div>
-
-<div class="topic">
-    <div class="meta">
-        <h4>Julian Cheal</h4>
-        <p>
-            <a class="twitter" href="https://twitter.com/juliancheal" target="_blank">@juliancheal</a>
-        </p>
-    </div>
-    <span class="image"><img src="/images/speaker-juliancheal.jpg" /></span>
-
-    <h3>
-        Dancing with Robots
-    </h3>
-    <p>
-        Web apps are great and everything, but imagine using JS to fly drones and make them dance to the sounds of dubstep!
-        Or to control disco lights and other robots! Sounds fun, right? In this talk, we will not only explore
-        how we can write code to make this possible, but it will also be full of exciting, interactive (and possibly dangerous ;) ) demos!
-    </p>
-
-</div>
-
-
-<div class="topic">
-    <div class="meta">
-        <h4>Stephan Bönnemann</h4>
-        <p>
-            <a class="twitter" href="https://twitter.com/boennemann" target="_blank">@boennemann</a>
-        </p>
-    </div>
-    <span class="image"><img src="/images/speaker-stephan.jpeg" /></span>
-
-    <h3>
-We fail to follow SemVer – and why it needn’t matter
-    </h3>
-    <p>
-        If extensive libraries and even the tiniest module followed SemVer strictly, dependency hell would be a thing of the past … but humans weren’t made to follow rules.
-    </p>
-
-    <p>
-        There are over 125.000 packages on npm today. By the time of this conference, at least another 10.000 will have been added. Using the right packages in your own modules and applications makes JavaScript the joy to develop it is today. But if even immensely popular libraries fail to properly declare breaking changes, how can we trust the over 50.000 strangers who developed all these modules?
-        Currently we can’t. Let me show you how to write confidence-inspiring modules by leaving package publishing up to the machines – instead of buggy humans.
-    </p>
-
-</div>
 
 <ul class="speakers">
 
@@ -435,6 +497,9 @@ and Strech Conference, because of the unique atmosphere.
 
 <div id="sponsorlist">
 
+    <a href="https://www.twilio.com/">
+        <img src="/images/twilio.png" class="tier3" />
+    </a>
     <a href="https://travis-ci.org">
         <img src="/images/travis-ci.png" class="tier3" />
     </a>
