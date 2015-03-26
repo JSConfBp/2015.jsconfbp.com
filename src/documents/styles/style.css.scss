@@ -566,6 +566,23 @@ a {
       }
     }
 
+    ul {
+      padding: 0;
+      list-style-type: disc;
+      margin-left: 20px;
+      li {
+        float: none;
+        width: auto;
+        height: auto;
+        padding: 0;
+        margin-bottom: 5px;
+        margin-left: 10px;
+        display: list-item;
+      }
+
+    }
+
+
   }
 
   .master-of-ceremony {
