@@ -504,13 +504,6 @@ title: ''
 </div>
 
 
-<ul class="speakers">
-    <li>
-        <h4>Coming soon!</h4>
-        <span class="image"><img src="/images/speaker.png" /></span>
-    </li>
-
-</ul>
 
 # Venue
 
