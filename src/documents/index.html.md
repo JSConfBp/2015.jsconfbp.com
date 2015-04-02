@@ -51,6 +51,7 @@ title: ''
 
         <ul>
             <li>Travis CI</li>
+            <li>npm Inc</li>
             <li>Maciej Małecki</li>
         </ul>
 
