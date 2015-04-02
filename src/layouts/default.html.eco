@@ -64,7 +64,7 @@
 						<a href="/#sponsors">Sponsors</a>
 					</li>
 					<li>
-						<a href="<%- @getPath('call-for-presentations.html','/') %>">Call For Presentations</a>
+						<a href="<%- @getPath('diversity-sponsorship.html','/') %>">Diversity Sponsorship</a>
 					</li>
 					<li>
 						<a href="<%- @getPath('budapest-guide.html','/') %>">Budapest Guide</a>
