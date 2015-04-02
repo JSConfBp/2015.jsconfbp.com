@@ -57,10 +57,6 @@ If you would like to join this list, and see your company logo at the conference
 We, the organizers, do not decide who gets these tickets. We managed to assemble an international jury of individuals,
 who work hard to improve diversity in tech. They will handle the awarding process, by choosing from the applications for the tickets.
 
-The Jury so far:
-- Anika Lindtner from [Travis CI](http://foundation.travis-ci.org/)
-- Szilvia Koleszár, founder of [SKOOL](http://skool.org.hu/en/)
-
 More information on the jury will follow soon. Stay tuned.
 
 
