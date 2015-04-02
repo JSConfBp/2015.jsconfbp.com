@@ -30,7 +30,7 @@ title: ''
 
 <div class="news-entry">
 
-    <small class="date" id="news201502018">31 March 2015</small>
+    <small class="date" id="news201502018">2 April 2015</small>
         <h3>Diversity Sponsorship Programme</h3>
 
         <p>
