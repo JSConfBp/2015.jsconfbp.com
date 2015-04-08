@@ -58,7 +58,7 @@ We, the organizers, do not decide who gets these tickets. We managed to assemble
 who work hard to improve diversity in tech. They will handle the awarding process, by choosing from the applications for the tickets.
 
 The Jury:
-- [Anika Lindtner](https://twitter.com/langziehohr) from [Travis CI](http://foundation.travis-ci.org/)
+- [Anika Lindtner](https://twitter.com/langziehohr) from [Travis Foundation](http://foundation.travis-ci.org/)
 - [Karolina Szczur](https://twitter.com/fox), from [&yet](https://andyet.com/)
 - [Szilvia Koleszár](https://www.linkedin.com/in/szkoleszar), founder of [SKOOL](http://skool.org.hu/en/)
 - [Tamás Tompa](https://twitter.com/tompata), mentor of [Prezi's Jump](http://jump.prezi.com/)
