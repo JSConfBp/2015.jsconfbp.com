@@ -974,4 +974,41 @@ a {
   }
 }
 
+.speakers-compact table {
+  width:94%;
+  margin-left:4%;
+  margin-right:4%;
+  font-size: 15px;
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .speakers-compact {
+    display: none;
+  }
+}
+
+@media (min-width: 1600px) {
+  .speakers-compact {
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+  }
+}
+
+
+.speakers-compact table td.name {
+  text-align: left;
+}
+
+.speakers-compact table a {
+  font-size: 16px;
+}
+
+.speakers-compact table img {
+  width: 80px;
+  padding-right: 10px;
+  border-radius: 100%;
+}
+
 @import 'gmap';
