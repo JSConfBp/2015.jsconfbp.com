@@ -23,123 +23,157 @@ title: ''
 
 # Speakers
 
-<table align="center">
+<table class="speakers-compact">
 	<tbody>
 		<tr>
-			<td><img src="http://jsconfbp.com/images/speaker-matthew.png" /></td>
-			<td><a href="#speakers" title="speakers">Matthew Podwysocki</a></td>
-			<td><a href="https://twitter.com/mattpodwysocki" title="@mattpodwysocki">@mattpodwysocki</a></td>
+			<td><img src="/images/speaker-matthew.png" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Matthew Podwysocki</a><br/>
+				<a href="https://twitter.com/mattpodwysocki" title="@mattpodwysocki">@mattpodwysocki</a>
+			</td>
 			<td>Microsoft</td>
 			<td>Asynchronous JavaScript at Netflix</td>
 
-			<td><img src="http://jsconfbp.com/images/speaker-liv.png" /></td>
-			<td><a href="#speakers" title="speakers">Liv Erickson</a></td>
-			<td><a href="https://twitter.com/misslivirose" title="@misslivirose">@misslivirose</a></td>
+			<td><img src="/images/speaker-liv.png" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Liv Erickson</a><br/>
+				<a href="https://twitter.com/misslivirose" title="@misslivirose">@misslivirose</a>
+			</td>
 			<td>Microsoft</td>
 			<td>JavaScript for Virtual Reality</td>
 		</tr>
 
 		<tr>
-			<td><img src="http://jsconfbp.com/images/speaker-philnash.jpg" /></td>
-			<td><a href="#speakers" title="speakers">Phil Nash</a></td>
-			<td><a href="https://twitter.com/philnash" title="@philnash">@philnash</a></td>
+			<td><img src="/images/speaker-philnash.jpg" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Phil Nash</a><br/>
+				<a href="https://twitter.com/philnash" title="@philnash">@philnash</a>
+			</td>
 			<td>Twilio</td>
 			<td>The web is getting pushy</td>
 
-			<td><img src="http://jsconfbp.com/images/speaker-stephan.jpeg" /></td>
-			<td><a href="#speakers" title="speakers">Stephan Bönnemann</a></td>
-			<td><a href="https://twitter.com/boennemann" title="@boennemann">@boennemann</a></td>
+			<td><img src="/images/speaker-stephan.jpeg" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Stephan Bönnemann</a><br/>
+				<a href="https://twitter.com/boennemann" title="@boennemann">@boennemann</a>
+			</td>
 			<td></td>
 			<td>We fail to follow SemVer – and why it needn’t matter</td>
 		</tr>
 
 		<tr>
-			<td><img src="http://jsconfbp.com/images/speaker-juliancheal.jpg" /></td>
-			<td><a href="#speakers" title="speakers">Julian Cheal</a></td>
-			<td><a href="https://twitter.com/juliancheal" title="@juliancheal">@juliancheal</a></td>
+			<td><img src="/images/speaker-juliancheal.jpg" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Julian Cheal</a><br/>
+				<a href="https://twitter.com/juliancheal" title="@juliancheal">@juliancheal</a>
+			</td>
 			<td></td>
 			<td>Dancing with Robots</td>
 
-			<td><img src="http://jsconfbp.com/images/speaker-anika.jpg" /></td>
-			<td><a href="#speakers" title="speakers">Anika Lindtner</a></td>
-			<td><a href="https://twitter.com/langziehohr" title="@langziehohr">@langziehohr</a></td>
+			<td><img src="/images/speaker-anika.jpg" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Anika Lindtner</a><br/>
+				<a href="https://twitter.com/langziehohr" title="@langziehohr">@langziehohr</a>
+			</td>
 			<td>Travis CI</td>
 			<td>How you can fix your community in one day</td>
 		</tr>
 
 		<tr>
-			<td><img src="http://jsconfbp.com/images/speaker-martin-kleppe.jpg" /></td>
-			<td><a href="#speakers" title="speakers">Martin Kleppe</a></td>
-			<td><a href="https://twitter.com/aemkei" title="@aemkei">@aemkei</a></td>
+			<td><img src="/images/speaker-martin-kleppe.jpg" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Martin Kleppe</a><br/>
+				<a href="https://twitter.com/aemkei" title="@aemkei">@aemkei</a>
+			</td>
 			<td>Ubilabs</td>
 			<td>Invisible Code</td>
 
-			<td><img src="http://jsconfbp.com/images/speaker-andre.jpeg" /></td>
-			<td><a href="#speakers" title="speakers">André Staltz</a></td>
-			<td><a href="https://twitter.com/andrestaltz" title="@andrestaltz">@andrestaltz</a></td>
+			<td><img src="/images/speaker-andre.jpeg" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">André Staltz</a><br/>
+				<a href="https://twitter.com/andrestaltz" title="@andrestaltz">@andrestaltz</a>
+			</td>
 			<td>Futurice</td>
 			<td>What if the user was a function?</td>
 		</tr>
 
 		<tr>
-			<td><img src="http://jsconfbp.com/images/speaker-thespite.png" /></td>
-			<td><a href="#speakers" title="speakers">Jaume Sanchez Elias</a></td>
-			<td><a href="https://twitter.com/thespite" title="@thespite">@thespite</a></td>
+			<td><img src="/images/speaker-thespite.png" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Jaume Sanchez Elias</a><br/>
+				<a href="https://twitter.com/thespite" title="@thespite">@thespite</a>
+			</td>
 			<td>B-Reel</td>
 			<td>Getting started with three.js and WebGL</td>
 
-			<td><img src="http://jsconfbp.com/images/speaker-brevik.png" /></td>
-			<td><a href="#speakers" title="speakers">Mikael Brevik</a></td>
-			<td><a href="https://twitter.com/mikaelbrevik" title="@mikaelbrevik">@mikaelbrevik</a></td>
+			<td><img src="/images/speaker-brevik.png" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Mikael Brevik</a><br/>
+				<a href="https://twitter.com/mikaelbrevik" title="@mikaelbrevik">@mikaelbrevik</a>
+			</td>
 			<td>Bekk Consulting</td>
 			<td>Functional UIs and Unidirectional Dataflow</td>
 		</tr>
 
 		<tr>
-			<td><img src="http://jsconfbp.com/images/speaker-sebastiano.jpeg" /></td>
-			<td><a href="#speakers" title="speakers">Sebastiano Armeli</a></td>
-			<td><a href="https://twitter.com/sebarmeli" title="@sebarmeli">@sebarmeli</a></td>
+			<td><img src="/images/speaker-sebastiano.jpeg" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Sebastiano Armeli</a><br/>
+				<a href="https://twitter.com/sebarmeli" title="@sebarmeli">@sebarmeli</a>
+			</td>
 			<td>Spotify</td>
 			<td>Enforcing coding standards in a JS library</td>
 
-			<td><img src="http://jsconfbp.com/images/speaker-substack.jpeg" /></td>
-			<td><a href="#speakers" title="speakers">James Halliday</a></td>
-			<td><a href="https://twitter.com/substack" title="@substack">@substack</a></td>
+			<td><img src="/images/speaker-substack.jpeg" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">James Halliday</a><br/>
+				<a href="https://twitter.com/substack" title="@substack">@substack</a>
+			</td>
 			<td>Browserify</td>
 			<td>Anyone can edit</td>
 		</tr>
 
 		<tr>
-			<td><img src="http://jsconfbp.com/images/speaker-supersole.png" /></td>
-			<td><a href="#speakers" title="speakers">Soledad Penadés</a></td>
-			<td><a href="https://twitter.com/supersole" title="@supersole">@supersole</a></td>
+			<td><img src="/images/speaker-supersole.png" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Soledad Penadés</a><br/>
+				<a href="https://twitter.com/supersole" title="@supersole">@supersole</a>
+			</td>
 			<td>Mozilla</td>
 			<td>The disconnected ensemble: scattered clouds, underground.</td>
 
-			<td><img src="http://jsconfbp.com/images/speaker-sufian.jpeg" /></td>
-			<td><a href="#speakers" title="speakers">Sufian Rhazi</a></td>
-			<td><a href="https://twitter.com/sufianrhazi" title="@sufianrhazi">@sufianrhazi</a></td>
+			<td><img src="/images/speaker-sufian.jpeg" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Sufian Rhazi</a><br/>
+				<a href="https://twitter.com/sufianrhazi" title="@sufianrhazi">@sufianrhazi</a>
+			</td>
 			<td>Etsy</td>
 			<td>Transform your codebase without breaking a sweat</td>
 
 		<tr>
-			<td><img src="http://jsconfbp.com/images/speaker-fedor.png" /></td>
-			<td><a href="#speakers" title="speakers">Fedor Indutny</a></td>
-			<td><a href="https://twitter.com/indutny" title="@indutny">@indutny</a></td>
+			<td><img src="/images/speaker-fedor.png" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Fedor Indutny</a>
+				<a href="https://twitter.com/indutny" title="@indutny">@indutny</a>
+			</td>
 			<td>IO.js</td>
 			<td>Diving into io.js C++ internals</td>
 
-			<td><img src="http://jsconfbp.com/images/speaker-pascal.jpeg" /></td>
-			<td><a href="#speakers" title="speakers">Pascal Precht</a></td>
-			<td><a href="https://twitter.com/pascalprecht" title="@pascalprecht">@pascalprecht</a></td>
+			<td><img src="/images/speaker-pascal.jpeg" /></td>
+			<td class="name">
+				<a href="#talks" title="speakers">Pascal Precht</a><br/>
+				<a href="https://twitter.com/pascalprecht" title="@pascalprecht">@pascalprecht</a>
+			</td>
 			<td>Thoughtram</td>
 			<td>Dependency Injection for Future Generations</td>
 		</tr>
 
 		<tr>
-			<td><img src="http://jsconfbp.com/images/speaker-karolina.jpg" /></td>
-			<td><a href="#speakers" title="speakers">Karolina Szczur</a></td>
-			<td><a href="https://twitter.com/fox" title="@fox">@fox</a></td>
+			<td><img src="/images/speaker-karolina.jpg" /></td>
+			<td>
+				<a href="#talks" title="speakers">Karolina Szczur</a><br/>
+				<a href="https://twitter.com/fox" title="@fox">@fox</a>
+			</td>
 			<td>&yet</td>
 			<td>Master of Ceremony</td>
 		</tr>

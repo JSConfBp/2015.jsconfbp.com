@@ -974,4 +974,26 @@ a {
   }
 }
 
+table.speakers-compact {
+  width:80%;
+  margin-left:10%;
+  margin-right:10%;
+  font-size: 15px;
+  text-align: center;
+}
+
+table.speakers-compact td.name {
+  text-align: left;
+}
+
+table.speakers-compact a {
+  font-size: 16px;
+}
+
+table.speakers-compact img {
+  width: 80px;
+  padding-right: 10px;
+  border-radius: 100%;
+}
+
 @import 'gmap';
