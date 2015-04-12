@@ -90,17 +90,8 @@ $(function () {
 	var closeTopic = function () {
 		$('body').removeClass('modal');
 		$('#TopicDetail').html('');
-
-
-		if (topicTop === 0) {
-			var topic = location.hash.replace('#', '');
-			location.hash = '';
-			$(window).scrollTop($('.topics .topic[data-deeplink=' + topic + ']').position().top);
-		} else {
-			location.hash = '';
-			$(window).scrollTop(topicTop)
-		}
-
+		location.hash = '';
+		$(window).scrollTop(topicTop)
 	}
 
 	var topicTop = 0;
@@ -127,6 +118,9 @@ $(function () {
 		if ($('.topics .topic[data-deeplink=' + topic + ']').size()) {
 			$('body').addClass('modal');
 			$('#TopicDetail').html($('.topics .topic[data-deeplink=' + topic + ']').html()).append('<span class="close">×</span>');
+
+			topicTop = $('.topics .topic[data-deeplink=' + topic + ']').position().top;
+			$(window).scrollTop(topicTop);
 		}
 	}
 });
