@@ -88,8 +88,10 @@ $(function () {
 	}
 
 	var closeTopic = function () {
+		$('#Cover').scrollTop(0);
 		$('body').removeClass('modal');
 		$('#TopicDetail').html('');
+
 		location.hash = '';
 		$(window).scrollTop(topicTop)
 	}
