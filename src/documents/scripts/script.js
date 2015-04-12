@@ -90,8 +90,16 @@ $(function () {
 	var closeTopic = function () {
 		$('body').removeClass('modal');
 		$('#TopicDetail').html('');
+
+
+		if (topicTop === 0) {
+			var topic = location.hash.replace('#', '');
+			$(window).scrollTop($('.topics .topic[data-deeplink=' + topic + ']').position().top);
+		} else {
+			$(window).scrollTop(topicTop)
+		}
+
 		location.hash = '';
-		$(window).scrollTop(topicTop)
 	}
 
 	var topicTop = 0;
