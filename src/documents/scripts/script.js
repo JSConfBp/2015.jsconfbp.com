@@ -94,12 +94,13 @@ $(function () {
 
 		if (topicTop === 0) {
 			var topic = location.hash.replace('#', '');
+			location.hash = '';
 			$(window).scrollTop($('.topics .topic[data-deeplink=' + topic + ']').position().top);
 		} else {
+			location.hash = '';
 			$(window).scrollTop(topicTop)
 		}
 
-		location.hash = '';
 	}
 
 	var topicTop = 0;
