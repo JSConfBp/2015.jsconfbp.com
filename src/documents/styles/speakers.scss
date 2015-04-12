@@ -112,12 +112,13 @@
       line-height: 26px;
     }
 
+
     p {
-      display: none;
       padding: 0;
       font-size: 16px;
       line-height: 28px;
     }
+
   }
 
   ul {
@@ -137,7 +138,6 @@
 
   }
 
-  ul, p {display: none;}
 
 
 }
@@ -167,6 +167,23 @@
       p {
         padding: 0;
         line-height: 33px;
+      }
+    }
+  }
+
+  .topic {
+    ul, p {
+      display: block;
+      overflow: hidden;
+      height: 0;
+      padding: 0;
+    }
+    .meta {
+      p {
+        display: block;
+        overflow: hidden;
+        height: 0;
+        padding: 0;
       }
     }
   }
@@ -230,8 +247,8 @@
     display: block;
     position: absolute;
     font-size: 60px;
-    top: 12px;
-    right: 12px;
+    top: 22px;
+    right: 22px;
     line-height: 44px;
     height: 48px;
     width: 48px;
@@ -239,6 +256,7 @@
     cursor: pointer;
     color: #909090;
   }
+
 
 }
 
@@ -255,45 +273,27 @@ body.modal {
 }
 
 
-
-
-
+#ModalClose {
+  display: none;
+  position: fixed;
+  z-index: 102;
+  font-size: 60px;
+  top: 12px;
+  right: 12px;
+  line-height: 44px;
+  height: 48px;
+  width: 48px;
+  text-align: center;
+  cursor: pointer;
+  color: #909090;
+}
 
 
 
 
 
 @media (max-width: 900px) {
-  #header {
-    height: auto;
-  }
 
-  #social {
-    text-align: center;
-    padding-top: 20px;
-    position: relative;
-    line-height: 32px;
-
-    a {
-      margin: 0 20px;
-    }
-  }
-
-  #navigation {
-    margin-top: 30px;
-
-    li {
-      display: block;
-      margin: 0 auto;
-      line-height: 34px;
-    }
-  }
-
-  #content .news-entry {
-    ul {
-      width: auto;
-    }
-  }
 
   #content {
 
@@ -329,19 +329,38 @@ body.modal {
     left: 0;
     top: 0;
     padding: 20px;
+    padding-right: 70px;
     min-height: 0;
 
-  .meta {
-    padding-left: 0;
-    padding-top: 140px
+    .meta {
+      padding-left: 0;
+      padding-top: 140px
 
-  }
-  .image {
-    left: 20px;
-    top: 20px;
-  }
+    }
+    .image {
+      left: 20px;
+      top: 20px;
+    }
+
+    p, ul {
+      line-height: 26px;
+      font-size: 16px;
+      padding-bottom: 0px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .close {
+      display: none;
+    }
   }
 
+
+  .modal #ModalClose {
+    display: block;
+  }
 
 }
 

@@ -97,13 +97,14 @@ $(function () {
 	var topicTop = 0;
 
 	$('body')
-		.prepend('<div id="Cover"><div id="TopicDetail"></div></div>')
+		.prepend('<div id="Cover"><div id="TopicDetail"></div></div><div id="ModalClose">×</div>')
 		.on('keydown', function (e) {
 			if (e.keyCode == 27 && $('body').hasClass('modal')) {
 				closeTopic();
 			}
 		});
 
+	$('#ModalClose').on('click', closeTopic);
 	$('#TopicDetail').on('click', '.close', closeTopic);
 
 	$('.topics .topic').on('click', function () {
