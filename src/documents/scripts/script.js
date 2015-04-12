@@ -86,4 +86,38 @@ $(function () {
 			});
 		});
 	}
+
+	var closeTopic = function () {
+		$('body').removeClass('modal');
+		$('#TopicDetail').html('');
+		location.hash = '';
+		$(window).scrollTop(topicTop)
+	}
+
+	var topicTop = 0;
+
+	$('body')
+		.prepend('<div id="Cover"><div id="TopicDetail"></div></div>')
+		.on('keydown', function (e) {
+			if (e.keyCode == 27 && $('body').hasClass('modal')) {
+				closeTopic();
+			}
+		});
+
+	$('#TopicDetail').on('click', '.close', closeTopic);
+
+	$('.topics .topic').on('click', function () {
+		$('body').addClass('modal');
+		$('#TopicDetail').html($(this).html()).append('<span class="close">×</span>');
+		topicTop = $(window).scrollTop();
+		location.hash = $(this).data('deeplink');
+	});
+
+	if (location.hash) {
+		var topic = location.hash.replace('#', '');
+		if ($('.topics .topic[data-deeplink=' + topic + ']').size()) {
+			$('body').addClass('modal');
+			$('#TopicDetail').html($('.topics .topic[data-deeplink=' + topic + ']').html()).append('<span class="close">×</span>');
+		}
+	}
 });

@@ -11,7 +11,7 @@ We would like this conference, to be available for everybody in the region.
 Unfortunately there are people who still can't make it, because of some social, financial or medical disadvantagement.
 We would like to give them a chance.
 We also aim to help underrepresented groups in tech to attend and lowering the barriers for them.
-This includes but isn’t limited to: e.g. women, people of color, people with disabilities, LGBT* people etc.
+This includes but isn’t limited to: women, people of color, LGBTQIA+ people, and disabled people.
 
 To help them, we provide a **limited number of free, Diversity Supported tickets**.
 Anyone can apply for a ticket, using this form, right now:
