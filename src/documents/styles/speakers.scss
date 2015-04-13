@@ -294,6 +294,10 @@ body.modal {
 
 @media (max-width: 900px) {
 
+  #Cover {
+    overflow-y: scroll; /* has to be scroll, not auto */
+    -webkit-overflow-scrolling: touch;
+  }
 
   #content {
 
