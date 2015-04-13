@@ -21,54 +21,6 @@ title: ''
     </div>
 </div>
 
-# News
-
-<div class="news-entry">
-
-    <small class="date" id="news201502018">2 April 2015</small>
-        <h3>Diversity Sponsorship Programme</h3>
-
-        <p>
-            From today we start our Diversity Sponsorship programme, until the ticket sales is still on.
-        </p>
-
-        <p>
-            We have a <strong>batch of free tickets</strong>, dedicated for underrepresented groups in tech,
-            who cannot attend the conference for some reason.
-            <br />
-            For these tickets, <a href="https://docs.google.com/forms/d/1nWzOFlQZgKmj2LmrnQ0X-LWeIrphFv9z4FyOqivAQ5k/viewform">anyone
-            can send in application, using this form</a>.
-        </p>
-
-        <p>
-           This programme could not be started without our awesome launch partners:
-        </p>
-
-        <ul>
-            <li>Travis CI</li>
-            <li>npm Inc</li>
-            <li>Maciej Małecki</li>
-        </ul>
-
-        <p>
-            You can join this hall of fame, by buying a <a href="https://ti.to/jsconf-bp/jsconfbp2015/with/g28801bswls">Diversity Supporter ticket</a>,
-            or a <a href="https://ti.to/jsconf-bp/jsconfbp2015/with/2swarhzckgc">Diversity Sponsorship package</a> on Tito.
-        </p>
-
-        <p>
-            With this programme we also rewised our Diversity Supporter ticket, and removed the option from the ticket
-            holder to name the beneficiary. From now on, the second ticket in the price will be assigned to the batch
-            of free tickets for applicants.
-        </p>
-
-        <p>
-            <a href="/diversity-sponsorship.html">More information about the programme, the application process, and how these tickets will be awarded.</a>
-        </p>
-
-</div>
-
-<a href="/news.html">News archive</a>
-
 # Speakers
 
 <div class="speaker master-of-ceremony">
@@ -491,6 +443,55 @@ title: ''
 </div>
 
 </div>
+
+# News
+
+<div class="news-entry">
+
+    <small class="date" id="news201502018">2 April 2015</small>
+        <h3>Diversity Sponsorship Programme</h3>
+
+        <p>
+            From today we start our Diversity Sponsorship programme, until the ticket sales is still on.
+        </p>
+
+        <p>
+            We have a <strong>batch of free tickets</strong>, dedicated for underrepresented groups in tech,
+            who cannot attend the conference for some reason.
+            <br />
+            For these tickets, <a href="https://docs.google.com/forms/d/1nWzOFlQZgKmj2LmrnQ0X-LWeIrphFv9z4FyOqivAQ5k/viewform">anyone
+            can send in application, using this form</a>.
+        </p>
+
+        <p>
+           This programme could not be started without our awesome launch partners:
+        </p>
+
+        <ul>
+            <li>Travis CI</li>
+            <li>npm Inc</li>
+            <li>Maciej Małecki</li>
+        </ul>
+
+        <p>
+            You can join this hall of fame, by buying a <a href="https://ti.to/jsconf-bp/jsconfbp2015/with/g28801bswls">Diversity Supporter ticket</a>,
+            or a <a href="https://ti.to/jsconf-bp/jsconfbp2015/with/2swarhzckgc">Diversity Sponsorship package</a> on Tito.
+        </p>
+
+        <p>
+            With this programme we also rewised our Diversity Supporter ticket, and removed the option from the ticket
+            holder to name the beneficiary. From now on, the second ticket in the price will be assigned to the batch
+            of free tickets for applicants.
+        </p>
+
+        <p>
+            <a href="/diversity-sponsorship.html">More information about the programme, the application process, and how these tickets will be awarded.</a>
+        </p>
+
+</div>
+
+<a href="/news.html">News archive</a>
+
 
 # Venue
 
