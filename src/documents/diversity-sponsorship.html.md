@@ -31,16 +31,24 @@ that are available in the programme.
 <ul class="sponsor-list">
     <li>
         <a href="https://travis-ci.org">
-            <img src="/images/travis-ci.png" class="tier2" />
+            <img src="/images/travis-ci.png" class="tier2" alt="Travis CI" />
         </a>
     </li>
     <li>
         <a href="https://www.npmjs.com/">
-            <img src="/images/npm.png" class="tier2" />
+            <img src="/images/npm.png" class="tier2" alt="npm Inc" />
+        </a>
+    </li>
+    <li>
+        <a href="http://www.kitchenbudapest.hu/#/">
+            <img src="/images/kibu.png" class="tier2" alt="Kitchen Budapest" />
         </a>
     </li>
     <li>
         <a href="https://twitter.com/maciejmalecki">Maciej Małecki</a>
+    </li>
+    <li>
+        <a href="https://twitter.com/marcoos">Marek Stepien</a>
     </li>
 </ul>
 
