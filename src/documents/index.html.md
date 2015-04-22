@@ -522,9 +522,6 @@ Blaha Lujza tér in Budapest, Hungary. We invite every attendee and speaker, as 
 </p>
 
 <div class="sponsor-list">
-    <a href="http://www.smashingmagazine.com/">
-        <img src="/images/smashingmag.png" class="tier3" />
-    </a>
     <a href="http://www.microsoft.com/">
         <img src="/images/microsoft.png" class="tier3" />
     </a>
@@ -563,5 +560,14 @@ Blaha Lujza tér in Budapest, Hungary. We invite every attendee and speaker, as 
         <img src="/images/risingstack.png" class="tier3" />
     </a>
 
+
+</div>
+
+# Media Sponsors
+
+<div class="sponsor-list">
+    <a href="http://www.smashingmagazine.com/">
+        <img src="/images/smashingmag.png" class="tier3" />
+    </a>
 
 </div>
