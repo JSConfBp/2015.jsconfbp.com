@@ -567,12 +567,12 @@ Blaha Lujza tér in Budapest, Hungary. We invite every attendee and speaker, as 
 
 <div class="sponsor-list">
 
-    <a href="http://ustream.tv/">
-        <img src="/images/ustream.png" class="tier3" />
-    </a>
-
     <a href="http://risingstack.com/">
         <img src="/images/risingstack.png" class="tier3" />
+    </a>
+
+    <a href="http://ustream.tv/">
+        <img src="/images/ustream.png" class="tier3" />
     </a>
 
 
