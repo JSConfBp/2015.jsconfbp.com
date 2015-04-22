@@ -552,15 +552,6 @@ Blaha Lujza tér in Budapest, Hungary. We invite every attendee and speaker, as 
         <img src="/images/futurice.png" class="tier3" />
     </a>
 
-    <a href="http://ustream.tv/">
-        <img src="/images/ustream.png" class="tier3" />
-    </a>
-
-    <a href="http://risingstack.com/">
-        <img src="/images/risingstack.png" class="tier3" />
-    </a>
-
-
 </div>
 
 # Media Sponsors
@@ -569,5 +560,20 @@ Blaha Lujza tér in Budapest, Hungary. We invite every attendee and speaker, as 
     <a href="http://www.smashingmagazine.com/">
         <img src="/images/smashingmag.png" class="tier3" />
     </a>
+
+</div>
+
+# Organized by
+
+<div class="sponsor-list">
+
+    <a href="http://ustream.tv/">
+        <img src="/images/ustream.png" class="tier3" />
+    </a>
+
+    <a href="http://risingstack.com/">
+        <img src="/images/risingstack.png" class="tier3" />
+    </a>
+
 
 </div>
