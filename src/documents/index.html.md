@@ -540,6 +540,15 @@ Blaha Lujza tér in Budapest, Hungary. We invite every attendee and speaker, as 
 </p>
 
 <div class="sponsor-list">
+
+    <a href="http://www.toptal.com/">
+        <img src="/images/toptal.png" class="tier2" />
+    </a>
+
+    <a href="https://www.doclerholding.hu/en">
+        <img src="/images/doclerlabs.png" class="tier2" />
+    </a>
+
     <a href="http://www.microsoft.com/">
         <img src="/images/microsoft.png" class="tier3" />
     </a>
@@ -548,10 +557,6 @@ Blaha Lujza tér in Budapest, Hungary. We invite every attendee and speaker, as 
     </a>
     <a href="https://travis-ci.org">
         <img src="/images/travis-ci.png" class="tier3" />
-    </a>
-
-    <a href="http://www.toptal.com/">
-        <img src="/images/toptal.png" class="tier3" />
     </a>
 
     <a href="https://www.spotify.com">

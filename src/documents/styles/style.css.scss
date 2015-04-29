@@ -497,8 +497,8 @@ a {
       margin-bottom: 20px;
     }
 
-    .tier1 { width: 500px; }
-    .tier2 { width: 400px; }
+    .tier1 { width: 500px;  display: block; margin: 0 auto; }
+    .tier2 { width: 400px;  display: block; margin: 0 auto; }
     .tier3 { width: 300px; }
 
   }
@@ -675,6 +675,7 @@ a {
       .tier1 { width: 300px; }
       .tier2 { width: 200px; }
       .tier3 { width: 100px; }
+
 
     }
 
