@@ -12,13 +12,10 @@ This includes but isn’t limited to: women, people of color, LGBTQIA+ people, a
 We would like to give them a chance.
 
 To help them, we provide a **limited number of free, Diversity Supported tickets**.
-Anyone can apply for a ticket, using this form, right now:
 
-<div class="buy-tickets">
-    <div class="ticket diversity-apply">
-        <a href="https://docs.google.com/forms/d/1nWzOFlQZgKmj2LmrnQ0X-LWeIrphFv9z4FyOqivAQ5k/viewform" class="buy-button" target="_blank">Apply now</a>
-    </div>
-</div>
+**Update**
+
+The program is closed for this year, we will notify the awardee soon!
 
 These tickets are free for the applicants, but actually paid for, by our awesome generous partners,
 without them this program could not exist. These private individuals, or companies paid for those tickets
@@ -51,14 +48,6 @@ that are available in the programme.
 </ul>
 
 
-
-If you would like to join this list, and see your company logo at the conference as a Sponsor of Diversity, just click here:
-
-<div class="buy-tickets">
-    <div class="ticket regular">
-        <a href="https://ti.to/jsconf-bp/jsconfbp2015/with/2swarhzckgc" class="buy-button" target="_blank">I Want to Help</a>
-    </div>
-</div>
 
 We, the organizers, do not decide who gets these tickets. We managed to assemble an international jury of individuals,
 who work hard to improve diversity in tech. They will handle the awarding process, by choosing from the applications for the tickets.
