@@ -481,7 +481,7 @@ title: ''
             <strong>17:40 </strong> Sum up day one, dinner
         </p>
         <p>
-            <strong>Party at <a href="corvinteto.hu/en">Corvinteto</a></strong>
+            <strong>Party at <a href="http://corvinteto.hu/en">Corvinteto</a></strong>
         </p>
 
         <p>
