@@ -45,6 +45,9 @@ that are available in the programme.
     <li>
         <a href="https://twitter.com/marcoos">Marek Stepien</a>
     </li>
+    <li>
+        <a href="https://twitter.com/bartaz">Bartek Szopka</a>
+    </li>
 </ul>
 
 
