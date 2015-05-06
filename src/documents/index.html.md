@@ -12,7 +12,7 @@ title: ''
     <div class="ticket regular">
         <h3>Regular Coder</h3>
         <p><strong>€200 + VAT + Fees = €266</strong></p>
-        <a href="https://ti.to/jsconf-bp/jsconfbp2015" class="buy-button" target="_blank">Buy ticket</a>
+        <a href="#" class="buy-button" target="_blank">SOLD OUT</a>
     </div>
 </div>
 
