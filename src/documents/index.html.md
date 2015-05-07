@@ -10,9 +10,9 @@ title: ''
 
 <div class="buy-tickets">
     <div class="ticket regular">
-        <h3>Regular Coder</h3>
-        <p><strong>€200 + VAT + Fees = €266</strong></p>
-        <a href="#" class="buy-button" target="_blank">SOLD OUT</a>
+        <h3>Late Bird</h3>
+        <p><strong>€500 + VAT + Fees = €532</strong></p>
+        <a href="https://ti.to/jsconf-bp/jsconfbp2015/" class="buy-button" target="_blank">Buy Ticket</a>
     </div>
 </div>
 
