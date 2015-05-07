@@ -11,7 +11,7 @@ title: ''
 <div class="buy-tickets">
     <div class="ticket regular">
         <h3>Late Bird</h3>
-        <p><strong>€500 + VAT + Fees = €532</strong></p>
+        <p><strong>€400 + VAT + Fees = €532</strong></p>
         <a href="https://ti.to/jsconf-bp/jsconfbp2015/" class="buy-button" target="_blank">Buy Ticket</a>
     </div>
 </div>
