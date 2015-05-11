@@ -497,9 +497,9 @@ title: ''
             <strong>14:00 - 17:10</strong> Sessions, coffee break
             <br />
             <strong>17:40 </strong> Closing remarks, family photo
-            <br />
-            <strong>TBA</strong>
-
+        </p>
+        <p>
+             <strong>Beers & chill at <a href="https://goo.gl/maps/HxXmt">Extra</a></strong>
         </p>
 </div>
 
