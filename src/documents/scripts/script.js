@@ -94,7 +94,7 @@ $(function () {
 
 		location.hash = '';
 		$(window).scrollTop(topicTop)
-	}
+	};
 
 	var topicTop = 0;
 
@@ -114,6 +114,14 @@ $(function () {
 		$('#TopicDetail').html($(this).html()).append('<span class="close">×</span>');
 		topicTop = $(window).scrollTop();
 		location.hash = $(this).data('deeplink');
+	});
+
+	$('.schedule-table .talk').on('click', function (e) {
+		var link = $(this).data('link');
+
+		if (link) {
+			$('[data-deeplink="' + link + '"]').trigger('click');
+		}
 	});
 
 	if (location.hash) {

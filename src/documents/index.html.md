@@ -466,41 +466,185 @@ title: ''
 
         <h4>Summary</h4>
 
-        <p>
-            <strong>Day One</strong>
-            <br />
-
-            <strong>8:00</strong> Gates open, registration, breakfast
-            <br />
-            <strong>9:30 - 12:50</strong> Sessions, coffee break
-            <br />
-            <strong>12:50</strong> Lunch
-            <br />
-            <strong>14:30 - 17:40</strong> Sessions, coffee break
-            <br />
-            <strong>17:40 </strong> Sum up day one, dinner
-        </p>
-        <p>
-            <strong>Party at <a href="http://corvinteto.hu/en">Corvinteto</a></strong>
-        </p>
-
-        <p>
-            <strong>Day Two</strong>
-            <br />
-
-            <strong>8:00</strong> Gates open, registration, breakfast
-            <br />
-            <strong>9:30 - 12:30</strong> Sessions, coffee break
-            <br />
-            <strong>12:30</strong> Lunch
-            <br />
-            <strong>14:00 - 17:10</strong> Sessions, coffee break
-            <br />
-            <strong>17:40 </strong> Closing remarks, family photo
-        </p>
-        <p>
-             <strong>Beers & chill at <a href="https://goo.gl/maps/HxXmt">Extra</a></strong>
-        </p>
+        <table class="schedule-table">
+            <tr>
+            	<th colspan="2">Day 1 - Thursday</th>
+            </tr>
+            <tr>
+            	<td class="time">08:00 - 09:30</td>
+            	<td class="title">Gates open, registration, breakfast</td>
+            </tr>
+            <tr>
+            	<td class="time">09:30 - 09:50</td>
+            	<td class="title">Opening JSConf Budapest #1</td>
+            </tr>
+            <tr>
+            	<td class="time">09:50 - 10:30</td>
+            	<td class="title">
+            	    <span class="talk" data-link="andrestaltz">What if the user was a function?</span>
+            	    <span class="name">André Staltz</span>
+                </td>
+            </tr>
+            <tr>
+            	<td class="time">10:30 - 11:10</td>
+            	<td class="title">
+            	    <span class="talk" data-link="aemkei">Invisible Code</span>
+            	    <span class="name">Martin Kleppe</span>
+                </td>
+            </tr>
+            <tr>
+            	<td class="time">11:10 - 11:30</td>
+            	<td class="title">Coffee break</td>
+            </tr>
+            <tr>
+            	<td class="time">11:30 - 12:10</td>
+            	<td class="title">
+            	    <span class="talk" data-link="supersole">The disconnected ensemble: scattered clouds, underground.</span>
+            	    <span class="name">Soledad Penadés</span>
+                </td>
+            </tr>
+            <tr>
+            	<td class="time">12:10 - 12:50</td>
+            	<td class="title">
+            	    <span class="talk" data-link="mattpodwysocki">Asynchronous JavaScript at Netflix</span> 
+            	    <span class="name">Matthew Podwysocki</span>
+                </td>
+            </tr>
+            <tr>
+            	<td class="time">12:50 - 14:30</td>
+            	<td class="title">Lunch</td>
+            </tr>
+            <tr>
+            	<td class="time">14:30 - 15:10</td>
+            	<td class="title">
+            	    <span class="talk" data-link="mikaelbrevik">Functional UIs and Unidirectional Dataflow</span>
+            	    <span class="name">Mikael Brevik</span>
+                </td>
+            </tr>
+            <tr>
+            	<td class="time">15:10 - 15:50</td>
+            	<td class="title">
+            	    <span class="talk" data-link="boennemann">We fail to follow SemVer – and why it needn’t matter</span>
+            	    <span class="name">Stephan Bönnemann</span>
+                </td>
+            </tr>
+            <tr>
+            	<td class="time">15:50 - 16:10</td>
+            	<td class="title">Coffee break</td>
+            </tr>
+            <tr>
+            	<td class="time">16:10 - 16:50</td>
+            	<td class="title">
+            	    <span class="talk" data-link="sebarmeli">Enforcing coding standards in a JS library</span>
+            	    <span class="name">Sebastiano Armeli</span>
+                </td>
+            </tr>
+            <tr>
+            	<td class="time">17:00 - 17:40</td>
+            	<td class="title">
+            	    <span class="talk" data-link="juliancheal">Dancing with Robots</span>
+            	    <span class="name">Julian Cheal</span>
+            	</td>
+            </tr>
+            <tr>
+            	<td class="time">17:40 - 18:00</td>
+            	<td class="title">Day One sum up, party instructions</td>
+            </tr>
+            <tr>
+            	<td class="time">18:00 - 20:00</td>
+            	<td class="title">Dinner, chill & chat</td>
+            </tr>
+            <tr>
+            	<td class="time">20:00 - 02:00</td>
+            	<td class="title">Party at <a href="http://corvinteto.hu/en">Corvinteto</a></td>
+            </tr>
+        </table>
+        
+        <table class="schedule-table">
+            <tr>
+                <th colspan="2">Day 2 - Friday</th>
+            </tr>
+            <tr>
+                <td class="time">08:00 - 09:30</td>
+                <td class="title">Breakfast</td>
+            </tr>
+            <tr>
+                <td class="time">09:30 - 10:10</td>
+                <td class="title">
+                    <span class="talk" data-link="philnash">The web is getting pushy</span>
+                    <span class="name">Phil Nash</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">10:10 - 10:50</td>
+                <td class="title">
+                    <span class="talk" data-link="pascalprecht">Dependency Injection for Future Generations</span>
+                    <span class="name">Pascal Precht</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">10:50 - 11:10</td>
+                <td class="title">Coffee break</td>
+            </tr>
+            <tr>
+                <td class="time">11:10 - 11:50</td>
+                <td class="title">
+                    <span class="talk" data-link="misslivirose">JavaScript for Virtual Reality</span>
+                    <span class="name">Liv Erickson</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">11:50 - 12:30</td>
+                <td class="title">
+                    <span class="talk" data-link="indutny">Diving into io.js C++ internals</span>
+                    <span class="name">Fedor Indutny</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">12:30 - 14:00</td>
+                <td class="title">Lunch</td>
+            </tr>
+            <tr>
+                <td class="time">14:00 - 14:40</td>
+                <td class="title">
+                    <span class="talk" data-link="sufianrhazi">Transform your codebase without breaking a sweat</span>
+                    <span class="name">Sufian Rhazi</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">14:40 - 15:20</td>
+                <td class="title">
+                    <span class="talk" data-link="thespite">Getting started with three.js and WebGL</span>
+                    <span class="name">Jaume Sanchez Elias</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">15:40 - 16:00</td>
+                <td class="title">Coffee break</td>
+            </tr>
+            <tr>
+                <td class="time">16:00 - 16:40</td>
+                <td class="title">
+                    <span class="talk" data-link="substack">Anyone can edit</span>
+                    <span class="name">James Halliday</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">16:40 - 17:10</td>
+                <td class="title">
+                    <span class="talk" data-link="langziehohr">How you can fix your community in one day</span>
+                    <span class="name">Anika Lindtner</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">17:10 - 18:00</td>
+                <td class="title">Closing remarks, family photo</td>
+            </tr>
+            <tr>
+                <td class="time">18:00 - 00:00</td>
+                <td class="title">Beers & chill at <a href="https://goo.gl/maps/HxXmt">Extra</a></td>
+            </tr>
+        </table>
 </div>
 
 <a href="/news.html">News archive</a>
