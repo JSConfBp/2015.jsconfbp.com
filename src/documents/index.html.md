@@ -556,7 +556,7 @@ title: ''
             </tr>
             <tr>
             	<td class="time">20:00 - 02:00</td>
-            	<td class="title">Party at <a href="http://corvinteto.hu/en">Corvinteto</a></td>
+            	<td class="title"><b>Party at <a href="http://corvinteto.hu/en">Corvinteto</a></b></td>
             </tr>
         </table>
         
@@ -642,7 +642,7 @@ title: ''
             </tr>
             <tr>
                 <td class="time">18:00 - 00:00</td>
-                <td class="title">Beers & chill at <a href="https://goo.gl/maps/HxXmt">Extra</a></td>
+                <td class="title"><b>Beers & chill at <a href="https://goo.gl/maps/HxXmt">Extra</a></b></td>
             </tr>
         </table>
 </div>
