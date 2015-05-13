@@ -14,14 +14,32 @@
         <meta property="og:image" content="http://jsconfbp.com/images/og_image.jpg" />
 		<meta property="og:description" content="JSConf Budapest is a JSConf family member, 2-day, non-profit, for-the-community by-the-community conference about JavaScript in Budapest, Hungary." />
 
-		<meta name="generator" content="DocPad v6.69.2" />
+		<meta name="generator" content="DocPad v6.78.1" />
 
 		<link href='//fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
 		<link  rel="stylesheet" href="styles/all.min.css" />
 
 		<link rel="shortcut icon" href="./favicon.ico">
+		<script>(function() {
+          var _fbq = window._fbq || (window._fbq = []);
+          if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+          }
+          _fbq.push(['addPixelId', '1412312612411866']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
+        </script>
+        <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1412312612411866&amp;ev=PixelInitialized" /></noscript>
+
 	</head>
 	<body>
+
 		<div id="header">
 
 			<div class="logo">
@@ -80,6 +98,11 @@
 <h2>2015 May 14-15.</h2>
 
 
+            <div id="social">
+                <a class="twitter" target="_blank" href="https://twitter.com/jsconfbp">@jsconfbp on Twitter</a>
+                <a class="facebook" target="_blank" href="https://www.facebook.com/pages/JSConf-Budapest/383505985164517">JSConf Budapest on Facebook</a>
+            </div>
+
 			<div id="navigation">
 				<ul>
 					<li>
@@ -95,7 +118,7 @@
 						<a href="/#sponsors">Sponsors</a>
 					</li>
 					<li>
-						<a href="/call-for-presentations.html">Call For Presentations</a>
+						<a href="/diversity-sponsorship.html">Diversity Sponsorship</a>
 					</li>
 					<li>
 						<a href="/budapest-guide.html">Budapest Guide</a>
@@ -120,7 +143,14 @@ a safe environment for everybody.</p>
 <li>Szabolcs Szabolcsi-Tóth</li>
 <li>Twitter: <a href="http://twitter.com/_Nec">@_Nec</a></li>
 <li>Email: <a href="mailto:nec@jsconfbp.com">nec@jsconfbp.com</a></li>
-<li>Phone(hu): +36703891288</li>
+<li>Phone(hu): +36 70 389 1288</li>
+</ul>
+<p><strong>Sometimes, you want to contact someone, outside the organizer team</strong></p>
+<ul>
+<li>Anikó Fejes</li>
+<li>Twitter: <a href="https://twitter.com/hubudibu">@hubudibu</a></li>
+<li>Email: <a href="aniko@bpweb.io">aniko@bpweb.io</a></li>
+<li>Phone(hu): +36 70 426 2628</li>
 </ul>
 <h2 id="the-quick-version">The Quick Version</h2>
 <p>JSConf Budapest is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, 
@@ -161,17 +191,31 @@ or otherwise assist those experiencing harassment to feel safe for the duration 
 
 
 
+
+
 		<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
 		<!-- DocPad Scripts + Our Own -->
 		<script defer="defer"  src="scripts/all.min.js"></script>
 
-		 <script>
-              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-              ga('create', 'UA-58489830-1', 'auto');
-              ga('send', 'pageview');
-         </script>
+		<script>
+          // replace the sample tracking ID below with your Google Analytics Tracking ID
+          var googleUA = 'UA-58489830-1';
+
+          // replace XYZ.com with your domain, and add in any other domains that you’d like to track requests across
+          var googleDomainList = ['jsconfbp.com', 'ti.to'];
+
+          // no more replacements
+
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', googleUA, 'auto', {'allowLinker': true});
+          ga('require', 'linker');
+          ga('linker:autoLink', googleDomainList);
+          ga('send', 'pageview');
+
+        </script>
 	</body>
 </html>

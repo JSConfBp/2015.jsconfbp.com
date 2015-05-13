@@ -16,7 +16,14 @@ a safe environment for everybody.
  - Szabolcs Szabolcsi-Tóth
  - Twitter: [@_Nec](http://twitter.com/_Nec)
  - Email: [nec@jsconfbp.com](mailto:nec@jsconfbp.com)
- - Phone(hu): +36703891288
+ - Phone(hu): +36 70 389 1288
+
+**Sometimes, you want to contact someone, outside the organizer team**
+
+- Anikó Fejes
+- Twitter: [@hubudibu](https://twitter.com/hubudibu)
+- Email: [aniko@bpweb.io](aniko@bpweb.io)
+- Phone(hu): +36 70 426 2628
 
 ## The Quick Version
 

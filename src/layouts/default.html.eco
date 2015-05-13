@@ -20,12 +20,35 @@
 		<%- @getBlock('styles').add(@getGruntedStyles()).toHTML() %>
 
 		<link rel="shortcut icon" href="./favicon.ico">
+		<script>(function() {
+          var _fbq = window._fbq || (window._fbq = []);
+          if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+          }
+          _fbq.push(['addPixelId', '1412312612411866']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
+        </script>
+        <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1412312612411866&amp;ev=PixelInitialized" /></noscript>
+
 	</head>
 	<body>
+
 		<div id="header">
 
 			<%- @partial('logo') %>
 			<%- @partial('title') %>
+
+            <div id="social">
+                <a class="twitter" target="_blank" href="https://twitter.com/jsconfbp">@jsconfbp on Twitter</a>
+                <a class="facebook" target="_blank" href="https://www.facebook.com/pages/JSConf-Budapest/383505985164517">JSConf Budapest on Facebook</a>
+            </div>
 
 			<div id="navigation">
 				<ul>
@@ -42,7 +65,7 @@
 						<a href="/#sponsors">Sponsors</a>
 					</li>
 					<li>
-						<a href="<%- @getPath('call-for-presentations.html','/') %>">Call For Presentations</a>
+						<a href="<%- @getPath('diversity-sponsorship.html','/') %>">Diversity Sponsorship</a>
 					</li>
 					<li>
 						<a href="<%- @getPath('budapest-guide.html','/') %>">Budapest Guide</a>
@@ -62,17 +85,31 @@
 
 		<%- @partial('footer') %>
 
+
+
 		<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
 		<!-- DocPad Scripts + Our Own -->
 		<%- @getBlock('scripts').add(@getGruntedScripts()).toHTML() %>
 
-		 <script>
-              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-              ga('create', 'UA-58489830-1', 'auto');
-              ga('send', 'pageview');
-         </script>
+		<script>
+          // replace the sample tracking ID below with your Google Analytics Tracking ID
+          var googleUA = 'UA-58489830-1';
+
+          // replace XYZ.com with your domain, and add in any other domains that you’d like to track requests across
+          var googleDomainList = ['jsconfbp.com', 'ti.to'];
+
+          // no more replacements
+
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', googleUA, 'auto', {'allowLinker': true});
+          ga('require', 'linker');
+          ga('linker:autoLink', googleDomainList);
+          ga('send', 'pageview');
+
+        </script>
 	</body>
 </html>

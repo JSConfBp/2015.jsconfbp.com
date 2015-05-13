@@ -86,4 +86,52 @@ $(function () {
 			});
 		});
 	}
+
+	var closeTopic = function () {
+		$('#Cover').scrollTop(0);
+		$('body').removeClass('modal');
+		$('#TopicDetail').html('');
+
+		location.hash = '';
+		$(window).scrollTop(topicTop)
+	};
+
+	var topicTop = 0;
+
+	$('body')
+		.prepend('<div id="Cover"><div id="TopicDetail"></div></div><div id="ModalClose">×</div>')
+		.on('keydown', function (e) {
+			if (e.keyCode == 27 && $('body').hasClass('modal')) {
+				closeTopic();
+			}
+		});
+
+	$('#ModalClose').on('click', closeTopic);
+	$('#TopicDetail').on('click', '.close', closeTopic);
+
+	$('.topics .topic').on('click', function () {
+		$('body').addClass('modal');
+		$('#TopicDetail').html($(this).html()).append('<span class="close">×</span>');
+		topicTop = $(window).scrollTop();
+		location.hash = $(this).data('deeplink');
+	});
+
+	$('.schedule-table .talk').on('click', function (e) {
+		var link = $(this).data('link');
+
+		if (link) {
+			$('[data-deeplink="' + link + '"]').trigger('click');
+		}
+	});
+
+	if (location.hash) {
+		var topic = location.hash.replace('#', '');
+		if ($('.topics .topic[data-deeplink=' + topic + ']').size()) {
+			$('body').addClass('modal');
+			$('#TopicDetail').html($('.topics .topic[data-deeplink=' + topic + ']').html()).append('<span class="close">×</span>');
+
+			topicTop = $('.topics .topic[data-deeplink=' + topic + ']').position().top;
+			$(window).scrollTop(topicTop);
+		}
+	}
 });
