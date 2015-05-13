@@ -17,7 +17,7 @@ title: ''
 		</div>
 	</div>
 	<div class="live-viewer">
-        <iframe id="UstreamIframe" class="embed" allowfullscreen webkitallowfullscreen src="http://ustream.tv/embed/1524?experiment=1"></iframe>
+        <iframe id="UstreamIframe" class="embed" allowfullscreen webkitallowfullscreen src="http://ustream.tv/embed/20572772?experiment=1"></iframe>
         <img src="http://static-cdn1.ustream.tv/images/placeholder_16x9:1396887665.gif" width="100%">
 	</div>
 </div>
