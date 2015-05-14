@@ -6,6 +6,22 @@ title: ''
 	<b>JSConf Budapest</b> is a JSConf family member 2-day non-profit for-the-community by-the-community conference about JavaScript in Budapest, Hungary.
 </p>
 
+#Live coverage
+
+<div class="live-box">
+	<div class="current">
+		<div class="info">Currently on JSConf Budapest:</div>
+		<div class="title">
+			<span class="talk"></span>
+			<span class="speaker-name"></span>
+		</div>
+	</div>
+	<div class="live-viewer">
+        <iframe id="UstreamIframe" class="embed" allowfullscreen webkitallowfullscreen src="http://ustream.tv/embed/20572772?experiment=1"></iframe>
+        <img src="http://static-cdn1.ustream.tv/images/placeholder_16x9:1396887665.gif" width="100%">
+	</div>
+</div>
+
 #Schedule
 
 <table class="schedule-table">
