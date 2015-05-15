@@ -177,25 +177,25 @@ title: ''
         </td>
     </tr>
     <tr>
-        <td class="time">15:40 - 16:00</td>
+        <td class="time">15:20 - 15:40</td>
         <td class="title">Coffee break</td>
     </tr>
     <tr>
-        <td class="time">16:00 - 16:40</td>
+        <td class="time">15:40 - 16:20</td>
         <td class="title">
             <span class="talk" data-link="substack">Anyone can edit</span>
             <span class="name">James Halliday</span>
         </td>
     </tr>
     <tr>
-        <td class="time">16:40 - 17:10</td>
+        <td class="time">16:20 - 17:00</td>
         <td class="title">
             <span class="talk" data-link="langziehohr">How you can fix your community in one day</span>
             <span class="name">Anika Lindtner</span>
         </td>
     </tr>
     <tr>
-        <td class="time">17:10 - 18:00</td>
+        <td class="time">17:00 - 18:00</td>
         <td class="title">Closing remarks, family photo</td>
     </tr>
     <tr>
