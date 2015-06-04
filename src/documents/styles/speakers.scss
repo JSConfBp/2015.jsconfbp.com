@@ -172,6 +172,7 @@
   }
 
   .topic {
+    iframe,
     ul, p {
       display: block;
       overflow: hidden;
@@ -220,6 +221,12 @@
   ul {
     display: inline-block;
     line-height: 36px;
+  }
+
+  iframe {
+    width: 618px;
+    height: 378px;
+    margin-top: 20px;
   }
 
   .meta {
@@ -358,6 +365,12 @@ body.modal {
 
     .close {
       display: none;
+    }
+
+
+    iframe {
+      width: 100%;
+      height: 300px;
     }
   }
 

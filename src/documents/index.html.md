@@ -216,6 +216,9 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-martin-kleppe.jpg" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/T3xMyZH93i8?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
+
     <p>
         The JavaScript world has seen stunning demos in 1024 bytes, crazy hacks in 140 characters and esoteric sequences of only 6 different symbols.
         This talk will push the limits even further and reveal, how to write "Invisible Code": Hidden programs that will execute with mind-bending magic.
@@ -238,6 +241,9 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-andre.jpeg" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1zj7M1LnJV4?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
+
     <p>
         Exploring MV*, user interfaces, unidirectional dataflow, reactive and functional programming
     </p>
