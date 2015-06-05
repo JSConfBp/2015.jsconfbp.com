@@ -39,6 +39,9 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-matthew.png" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/a8W5VVGO-jA?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
+
     <p>
        What’s does a mouse drag event have in common with an Array of numbers?
     </p>
@@ -354,6 +357,8 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-supersole.png" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0FhVF5fMmAw?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
 
     <p>
         Leave the routers and repeaters, the cabling and the splitters all behind.
