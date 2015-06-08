@@ -145,6 +145,9 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-stephan.jpeg" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tc2UgG5L7WM?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
+
     <p>
         If extensive libraries and even the tiniest module followed SemVer strictly, dependency hell would be a thing of the past … but humans weren’t made to follow rules.
     </p>
@@ -288,6 +291,8 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-brevik.png" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JNMWi7Z0Ssg?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
 
     <p>
         Let us bring back the days where we could write declarative representations of how we want our UI components to work. We should be able to read our code from top to bottom and intuitively know what the output will be, just like the good old HTML, but with the power of functional programming.
