@@ -171,6 +171,9 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-juliancheal.jpg" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zsJnsRGh8dE?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
+
     <p>
         Web apps are great and everything, but imagine using JS to fly drones and make them dance to the sounds of dubstep!
         Or to control disco lights and other robots! Sounds fun, right? In this talk, we will not only explore
@@ -317,6 +320,8 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-sebastiano.jpeg" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/odZpA6yrOYY?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
 
     <p>
         This talk is around enforcing coding standards in your JS project. We’ll discuss, as a use case, one of the libraries we use at Spotify in order to show the importance of keeping standards in your codebase.
