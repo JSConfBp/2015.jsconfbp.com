@@ -113,6 +113,9 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-philnash.jpg" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4-WnlHhqcjU?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
+
     <p>
         The battle between native and web rages on. The browsers are fighting hard to tear down the benefits that native
         developers have relied on since the inception of mobile platforms. Geolocation, sorted. Accelerometer, done.
@@ -436,6 +439,8 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-pascal.jpeg" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8c-qv9TisVE?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
 
     <p>
         Because dependency injection is cool and that it makes life of all us developers a looot easier,
