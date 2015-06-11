@@ -84,6 +84,9 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-liv.png" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DjC3axxkcL0?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
+
     <p>
         Is 2015 the year of Virtual Reality? Experts suggest that VR will be a 5.2B industry within the next 2 years -
         but right now, the majority of VR development tools require heavy game engines and specialized desktops.
@@ -419,6 +422,8 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-fedor.png" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2I_hWYHE6Vc?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
 
     <p>
          Exploring the code and file structure of the internal C++ core bindings of io.js
