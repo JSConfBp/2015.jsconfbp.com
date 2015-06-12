@@ -279,6 +279,9 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-thespite.png" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HwkGTYRopYg?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
+
     <p>
         Get started coding real-time graphics in the browser with WebGL and three.js. Starting from the basic structure of a three.js web app, going through to the main elements of the API with several useful examples, will help you to get a foothold on the exciting world of 3D graphics, now on desktop and mobile. It's not required to have previous knowledge of 3D graphics, linear algebra or linear transforms.
     </p>
@@ -397,6 +400,8 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-sufian.jpeg" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/X8WgkMbEAVQ?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
 
     <p>
         Making sweeping changes across a codebase with confidence is difficult. How can you
