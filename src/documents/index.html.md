@@ -202,6 +202,9 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-anika.jpg" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lDGiYPcg5qI?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
+
     <p>
         This talk will teach you a magic trick.
     </p>
@@ -353,6 +356,8 @@ title: ''
         </h3>
     </div>
     <span class="image"><img src="/images/speaker-substack.jpeg" /></span>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GJhN4aop2_g?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm" frameborder="0" allowfullscreen></iframe>
 
     <p>
         Wikis are a powerful data structure for collaboratively editing
