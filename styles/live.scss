@@ -1,0 +1,44 @@
+.live-box {
+  .current {
+    margin: 0 0 30px;
+    display: block;
+
+    .info {
+      text-align: center;
+      margin: 10px;
+      color: #1F419B;
+    }
+
+    .talk {
+      font-weight: bold;
+      font-size: 24px;
+    }
+
+    .speaker-name {
+      font-size: 18px;
+    }
+  }
+
+  .live-viewer {
+    position: relative;
+    width: 100%;
+    background: #000;
+    max-width: 800px;
+    margin: 0 auto;
+
+    .embed {
+      border: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    img {
+      padding-bottom: 32px;
+      visibility: hidden;
+      width: 100%;
+    }
+  }
+}
