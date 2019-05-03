@@ -33,22 +33,22 @@
     "npm": "1.1.x"
   },
   "dependencies": {
-    "bal-util": "~1.15.3",
+    "bal-util": "~2.8.0",
     "docpad": "6.x",
     "docpad-plugin-coffeescript": "2.x",
     "docpad-plugin-eco": "2.x",
     "docpad-plugin-marked": "2.x",
-    "docpad-plugin-partials": "~2.9.1",
-    "docpad-plugin-sass": "~2.7.3",
+    "docpad-plugin-partials": "~2.13.0",
+    "docpad-plugin-sass": "~2.9.0",
     "docpad-plugin-stylus": "2.x",
     "docpad-plugin-text": "2.x",
-    "grunt": "~0.3.17",
-    "grunt-css": "~0.3.2",
-    "underscore": "~1.4.3"
+    "grunt": "~1.0.4",
+    "grunt-css": "~0.5.4",
+    "underscore": "~1.9.1"
   },
   "devDependencies": {
-    "ical": "^0.4.0",
-    "lodash": "^3.8.0"
+    "ical": "^0.6.0",
+    "lodash": "^4.17.11"
   },
   "main": "node_modules/docpad/bin/docpad-server"
 }
