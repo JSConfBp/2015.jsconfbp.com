@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JSConfBp/jsconfbp.github.io.svg)](https://greenkeeper.io/)
+
 www for JSConf BP conference
 
 
